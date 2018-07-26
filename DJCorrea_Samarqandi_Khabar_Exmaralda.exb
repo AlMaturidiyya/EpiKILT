@@ -1,0 +1,4665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+<head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>AUT</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0"/>
+<tli id="T1"/>
+<tli id="T2"/>
+<tli id="T3"/>
+<tli id="T4"/>
+<tli id="T5"/>
+<tli id="T6"/>
+<tli id="T7"/>
+<tli id="T8"/>
+<tli id="T9"/>
+<tli id="T10"/>
+<tli id="T11"/>
+<tli id="T12"/>
+<tli id="T13"/>
+<tli id="T14"/>
+<tli id="T15"/>
+<tli id="T16"/>
+<tli id="T17"/>
+<tli id="T18"/>
+<tli id="T19"/>
+<tli id="T20"/>
+<tli id="T21"/>
+<tli id="T22"/>
+<tli id="T23"/>
+<tli id="T24"/>
+<tli id="T25"/>
+<tli id="T26"/>
+<tli id="T27"/>
+<tli id="T28"/>
+<tli id="T29"/>
+<tli id="T30"/>
+<tli id="T31"/>
+<tli id="T32"/>
+<tli id="T33"/>
+<tli id="T34"/>
+<tli id="T35"/>
+<tli id="T36"/>
+<tli id="T37"/>
+<tli id="T38"/>
+<tli id="T39"/>
+<tli id="T40"/>
+<tli id="T41"/>
+<tli id="T42"/>
+<tli id="T43"/>
+<tli id="T44"/>
+<tli id="T45"/>
+<tli id="T46"/>
+<tli id="T47"/>
+<tli id="T48"/>
+<tli id="T49"/>
+<tli id="T50"/>
+<tli id="T51"/>
+<tli id="T52"/>
+<tli id="T53"/>
+<tli id="T54"/>
+<tli id="T55"/>
+<tli id="T56"/>
+<tli id="T57"/>
+<tli id="T58"/>
+<tli id="T59"/>
+<tli id="T60"/>
+<tli id="T61"/>
+<tli id="T62"/>
+<tli id="T63"/>
+<tli id="T64"/>
+<tli id="T65"/>
+<tli id="T66"/>
+<tli id="T67"/>
+<tli id="T68"/>
+<tli id="T69"/>
+<tli id="T70"/>
+<tli id="T71"/>
+<tli id="T72"/>
+<tli id="T73"/>
+<tli id="T74"/>
+<tli id="T75"/>
+<tli id="T76"/>
+<tli id="T77"/>
+<tli id="T78"/>
+<tli id="T79"/>
+<tli id="T80"/>
+<tli id="T81"/>
+<tli id="T82"/>
+<tli id="T83"/>
+<tli id="T84"/>
+<tli id="T85"/>
+<tli id="T86"/>
+<tli id="T87"/>
+<tli id="T88"/>
+<tli id="T89"/>
+<tli id="T90"/>
+<tli id="T91"/>
+<tli id="T92"/>
+<tli id="T93"/>
+<tli id="T94"/>
+<tli id="T95"/>
+<tli id="T96"/>
+<tli id="T97"/>
+<tli id="T98"/>
+<tli id="T99"/>
+<tli id="T100"/>
+<tli id="T101"/>
+<tli id="T102"/>
+<tli id="T103"/>
+<tli id="T104"/>
+<tli id="T105"/>
+<tli id="T106"/>
+<tli id="T107"/>
+<tli id="T108"/>
+<tli id="T109"/>
+<tli id="T110"/>
+<tli id="T111"/>
+<tli id="T112"/>
+<tli id="T113"/>
+<tli id="T114"/>
+<tli id="T115"/>
+<tli id="T116"/>
+<tli id="T117"/>
+<tli id="T118"/>
+<tli id="T119"/>
+<tli id="T120"/>
+<tli id="T121"/>
+<tli id="T122"/>
+<tli id="T123"/>
+<tli id="T124"/>
+<tli id="T125"/>
+<tli id="T126"/>
+<tli id="T127"/>
+<tli id="T128"/>
+<tli id="T129"/>
+<tli id="T130"/>
+<tli id="T131"/>
+<tli id="T132"/>
+<tli id="T133"/>
+<tli id="T134"/>
+<tli id="T135"/>
+<tli id="T136"/>
+<tli id="T137"/>
+<tli id="T138"/>
+<tli id="T139"/>
+<tli id="T140"/>
+<tli id="T141"/>
+<tli id="T142"/>
+<tli id="T143"/>
+<tli id="T144"/>
+<tli id="T145"/>
+<tli id="T146"/>
+<tli id="T147"/>
+<tli id="T148"/>
+<tli id="T149"/>
+<tli id="T150"/>
+<tli id="T151"/>
+<tli id="T152"/>
+<tli id="T153"/>
+<tli id="T154"/>
+<tli id="T155"/>
+<tli id="T156"/>
+<tli id="T157"/>
+<tli id="T158"/>
+<tli id="T159"/>
+<tli id="T160"/>
+<tli id="T161"/>
+<tli id="T162"/>
+<tli id="T163"/>
+<tli id="T164"/>
+<tli id="T165"/>
+<tli id="T166"/>
+<tli id="T167"/>
+<tli id="T168"/>
+<tli id="T169"/>
+<tli id="T170"/>
+<tli id="T171"/>
+<tli id="T172"/>
+<tli id="T173"/>
+<tli id="T174"/>
+<tli id="T175"/>
+<tli id="T176"/>
+<tli id="T177"/>
+<tli id="T178"/>
+<tli id="T179"/>
+<tli id="T180"/>
+<tli id="T181"/>
+<tli id="T182"/>
+<tli id="T183"/>
+<tli id="T184"/>
+<tli id="T185"/>
+<tli id="T186"/>
+<tli id="T187"/>
+<tli id="T188"/>
+<tli id="T189"/>
+<tli id="T190"/>
+<tli id="T191"/>
+<tli id="T192"/>
+<tli id="T193"/>
+<tli id="T194"/>
+<tli id="T195"/>
+<tli id="T196"/>
+<tli id="T197"/>
+<tli id="T198"/>
+<tli id="T199"/>
+<tli id="T200"/>
+<tli id="T201"/>
+<tli id="T202"/>
+<tli id="T203"/>
+<tli id="T204"/>
+<tli id="T205"/>
+<tli id="T206"/>
+<tli id="T207"/>
+<tli id="T208"/>
+<tli id="T209"/>
+<tli id="T210"/>
+<tli id="T211"/>
+<tli id="T212"/>
+<tli id="T213"/>
+<tli id="T214"/>
+<tli id="T215"/>
+<tli id="T216"/>
+<tli id="T217"/>
+<tli id="T218"/>
+<tli id="T219"/>
+<tli id="T220"/>
+<tli id="T221"/>
+<tli id="T222"/>
+<tli id="T223"/>
+<tli id="T224"/>
+<tli id="T225"/>
+<tli id="T226"/>
+<tli id="T227"/>
+<tli id="T228"/>
+<tli id="T229"/>
+<tli id="T230"/>
+<tli id="T231"/>
+<tli id="T232"/>
+<tli id="T233"/>
+<tli id="T234"/>
+<tli id="T235"/>
+<tli id="T236"/>
+<tli id="T237"/>
+<tli id="T238"/>
+<tli id="T239"/>
+<tli id="T240"/>
+<tli id="T241"/>
+<tli id="T242"/>
+<tli id="T243"/>
+<tli id="T244"/>
+<tli id="T245"/>
+<tli id="T246"/>
+<tli id="T247"/>
+<tli id="T248"/>
+<tli id="T249"/>
+<tli id="T250"/>
+<tli id="T251"/>
+<tli id="T252"/>
+<tli id="T253"/>
+<tli id="T254"/>
+<tli id="T255"/>
+<tli id="T256"/>
+<tli id="T257"/>
+<tli id="T258"/>
+<tli id="T259"/>
+<tli id="T260"/>
+<tli id="T261"/>
+<tli id="T262"/>
+<tli id="T263"/>
+<tli id="T264"/>
+<tli id="T265"/>
+<tli id="T266"/>
+<tli id="T267"/>
+<tli id="T268"/>
+<tli id="T269"/>
+<tli id="T270"/>
+<tli id="T271"/>
+<tli id="T272"/>
+<tli id="T273"/>
+<tli id="T274"/>
+<tli id="T275"/>
+<tli id="T276"/>
+<tli id="T277"/>
+<tli id="T278"/>
+<tli id="T279"/>
+<tli id="T280"/>
+<tli id="T281"/>
+<tli id="T282"/>
+<tli id="T283"/>
+<tli id="T284"/>
+<tli id="T285"/>
+<tli id="T286"/>
+<tli id="T287"/>
+<tli id="T288"/>
+<tli id="T289"/>
+<tli id="T290"/>
+<tli id="T291"/>
+<tli id="T292"/>
+<tli id="T293"/>
+<tli id="T294"/>
+<tli id="T295"/>
+<tli id="T296"/>
+<tli id="T297"/>
+<tli id="T298"/>
+<tli id="T299"/>
+<tli id="T300"/>
+<tli id="T301"/>
+<tli id="T302"/>
+<tli id="T303"/>
+<tli id="T304"/>
+<tli id="T305"/>
+<tli id="T306"/>
+<tli id="T307"/>
+<tli id="T308"/>
+<tli id="T309"/>
+<tli id="T310"/>
+<tli id="T311"/>
+<tli id="T312"/>
+<tli id="T313"/>
+<tli id="T314"/>
+<tli id="T315"/>
+<tli id="T316"/>
+<tli id="T317"/>
+<tli id="T318"/>
+<tli id="T319"/>
+<tli id="T320"/>
+<tli id="T321"/>
+<tli id="T322"/>
+<tli id="T323"/>
+<tli id="T324"/>
+<tli id="T325"/>
+<tli id="T326"/>
+<tli id="T327"/>
+<tli id="T328"/>
+<tli id="T329"/>
+<tli id="T330"/>
+<tli id="T331"/>
+<tli id="T332"/>
+<tli id="T333"/>
+<tli id="T334"/>
+<tli id="T335"/>
+<tli id="T336"/>
+<tli id="T337"/>
+<tli id="T338"/>
+<tli id="T339"/>
+<tli id="T340"/>
+<tli id="T341"/>
+<tli id="T342"/>
+<tli id="T343"/>
+<tli id="T344"/>
+<tli id="T345"/>
+<tli id="T346"/>
+<tli id="T347"/>
+<tli id="T348"/>
+<tli id="T349"/>
+<tli id="T350"/>
+<tli id="T351"/>
+<tli id="T352"/>
+<tli id="T353"/>
+<tli id="T354"/>
+<tli id="T355"/>
+<tli id="T356"/>
+<tli id="T357"/>
+<tli id="T358"/>
+<tli id="T359"/>
+<tli id="T360"/>
+<tli id="T361"/>
+<tli id="T362"/>
+<tli id="T363"/>
+<tli id="T364"/>
+<tli id="T365"/>
+<tli id="T366"/>
+<tli id="T367"/>
+<tli id="T368"/>
+<tli id="T369"/>
+<tli id="T370"/>
+<tli id="T371"/>
+<tli id="T372"/>
+<tli id="T373"/>
+<tli id="T374"/>
+<tli id="T375"/>
+<tli id="T376"/>
+<tli id="T377"/>
+<tli id="T378"/>
+<tli id="T379"/>
+<tli id="T380"/>
+<tli id="T381"/>
+<tli id="T382"/>
+<tli id="T383"/>
+<tli id="T384"/>
+<tli id="T385"/>
+<tli id="T386"/>
+<tli id="T387"/>
+<tli id="T388"/>
+<tli id="T389"/>
+<tli id="T390"/>
+<tli id="T391"/>
+<tli id="T392"/>
+<tli id="T393"/>
+<tli id="T394"/>
+<tli id="T395"/>
+<tli id="T396"/>
+<tli id="T397"/>
+<tli id="T398"/>
+<tli id="T399"/>
+<tli id="T400"/>
+<tli id="T401"/>
+<tli id="T402"/>
+<tli id="T403"/>
+<tli id="T404"/>
+<tli id="T405"/>
+<tli id="T406"/>
+<tli id="T407"/>
+<tli id="T408"/>
+<tli id="T409"/>
+<tli id="T410"/>
+<tli id="T411"/>
+<tli id="T412"/>
+<tli id="T413"/>
+<tli id="T414"/>
+<tli id="T415"/>
+<tli id="T416"/>
+<tli id="T417"/>
+<tli id="T418"/>
+<tli id="T419"/>
+<tli id="T420"/>
+<tli id="T421"/>
+<tli id="T422"/>
+<tli id="T423"/>
+<tli id="T424"/>
+<tli id="T425"/>
+<tli id="T426"/>
+<tli id="T427"/>
+<tli id="T428"/>
+<tli id="T429"/>
+<tli id="T430"/>
+<tli id="T431"/>
+<tli id="T432"/>
+<tli id="T433"/>
+<tli id="T434"/>
+<tli id="T435"/>
+<tli id="T436"/>
+<tli id="T437"/>
+<tli id="T438"/>
+<tli id="T439"/>
+<tli id="T440"/>
+<tli id="T441"/>
+<tli id="T442"/>
+<tli id="T443"/>
+<tli id="T444"/>
+<tli id="T445"/>
+<tli id="T446"/>
+<tli id="T447"/>
+<tli id="T448"/>
+<tli id="T449"/>
+<tli id="T450"/>
+<tli id="T451"/>
+<tli id="T452"/>
+<tli id="T453"/>
+<tli id="T454"/>
+<tli id="T455"/>
+<tli id="T456"/>
+<tli id="T457"/>
+<tli id="T458"/>
+<tli id="T459"/>
+<tli id="T460"/>
+<tli id="T461"/>
+<tli id="T462"/>
+<tli id="T463"/>
+<tli id="T464"/>
+<tli id="T465"/>
+<tli id="T466"/>
+<tli id="T467"/>
+<tli id="T468"/>
+<tli id="T469"/>
+<tli id="T470"/>
+<tli id="T471"/>
+<tli id="T472"/>
+<tli id="T473"/>
+<tli id="T474"/>
+<tli id="T475"/>
+<tli id="T476"/>
+<tli id="T477"/>
+<tli id="T478"/>
+<tli id="T479"/>
+<tli id="T480"/>
+<tli id="T481"/>
+<tli id="T482"/>
+<tli id="T483"/>
+<tli id="T484"/>
+<tli id="T485"/>
+<tli id="T486"/>
+<tli id="T487"/>
+<tli id="T488"/>
+<tli id="T489"/>
+<tli id="T490"/>
+<tli id="T491"/>
+<tli id="T492"/>
+<tli id="T493"/>
+<tli id="T494"/>
+<tli id="T495"/>
+<tli id="T496"/>
+<tli id="T497"/>
+<tli id="T498"/>
+<tli id="T499"/>
+<tli id="T500"/>
+<tli id="T501"/>
+<tli id="T502"/>
+<tli id="T503"/>
+<tli id="T504"/>
+<tli id="T505"/>
+<tli id="T506"/>
+<tli id="T507"/>
+<tli id="T508"/>
+<tli id="T509"/>
+<tli id="T510"/>
+<tli id="T511"/>
+<tli id="T512"/>
+<tli id="T513"/>
+<tli id="T514"/>
+<tli id="T515"/>
+<tli id="T516"/>
+<tli id="T517"/>
+<tli id="T518"/>
+<tli id="T519"/>
+<tli id="T520"/>
+<tli id="T521"/>
+<tli id="T522"/>
+<tli id="T523"/>
+<tli id="T524"/>
+<tli id="T525"/>
+<tli id="T526"/>
+<tli id="T527"/>
+<tli id="T528"/>
+<tli id="T529"/>
+<tli id="T530"/>
+<tli id="T531"/>
+<tli id="T532"/>
+<tli id="T533"/>
+<tli id="T534"/>
+<tli id="T535"/>
+<tli id="T536"/>
+<tli id="T537"/>
+<tli id="T538"/>
+<tli id="T539"/>
+<tli id="T540"/>
+<tli id="T541"/>
+<tli id="T542"/>
+<tli id="T543"/>
+<tli id="T544"/>
+<tli id="T545"/>
+<tli id="T546"/>
+<tli id="T547"/>
+<tli id="T548"/>
+<tli id="T549"/>
+<tli id="T550"/>
+<tli id="T551"/>
+<tli id="T552"/>
+<tli id="T553"/>
+<tli id="T554"/>
+<tli id="T555"/>
+<tli id="T556"/>
+<tli id="T557"/>
+<tli id="T558"/>
+<tli id="T559"/>
+<tli id="T560"/>
+<tli id="T561"/>
+<tli id="T562"/>
+<tli id="T563"/>
+<tli id="T564"/>
+<tli id="T565"/>
+<tli id="T566"/>
+<tli id="T567"/>
+<tli id="T568"/>
+<tli id="T569"/>
+<tli id="T570"/>
+<tli id="T571"/>
+<tli id="T572"/>
+<tli id="T573"/>
+<tli id="T574"/>
+<tli id="T575"/>
+<tli id="T576"/>
+<tli id="T577"/>
+<tli id="T578"/>
+<tli id="T579"/>
+<tli id="T580"/>
+<tli id="T581"/>
+<tli id="T582"/>
+<tli id="T583"/>
+<tli id="T584"/>
+<tli id="T585"/>
+<tli id="T586"/>
+<tli id="T587"/>
+<tli id="T588"/>
+<tli id="T589"/>
+<tli id="T590"/>
+<tli id="T591"/>
+<tli id="T592"/>
+<tli id="T593"/>
+<tli id="T594"/>
+<tli id="T595"/>
+<tli id="T596"/>
+<tli id="T597"/>
+<tli id="T598"/>
+<tli id="T599"/>
+<tli id="T600"/>
+<tli id="T601"/>
+<tli id="T602"/>
+<tli id="T603"/>
+<tli id="T604"/>
+<tli id="T605"/>
+<tli id="T606"/>
+<tli id="T607"/>
+<tli id="T608"/>
+<tli id="T609"/>
+<tli id="T610"/>
+<tli id="T611"/>
+<tli id="T612"/>
+<tli id="T613"/>
+<tli id="T614"/>
+<tli id="T615"/>
+<tli id="T616"/>
+<tli id="T617"/>
+<tli id="T618"/>
+<tli id="T619"/>
+<tli id="T620"/>
+<tli id="T621"/>
+<tli id="T622"/>
+<tli id="T623"/>
+<tli id="T624"/>
+<tli id="T625"/>
+<tli id="T626"/>
+<tli id="T627"/>
+<tli id="T628"/>
+<tli id="T629"/>
+<tli id="T630"/>
+<tli id="T631"/>
+<tli id="T632"/>
+<tli id="T633"/>
+<tli id="T634"/>
+<tli id="T635"/>
+<tli id="T636"/>
+<tli id="T637"/>
+<tli id="T638"/>
+<tli id="T639"/>
+<tli id="T640"/>
+<tli id="T641"/>
+<tli id="T642"/>
+<tli id="T643"/>
+<tli id="T644"/>
+<tli id="T645"/>
+<tli id="T646"/>
+<tli id="T647"/>
+<tli id="T648"/>
+<tli id="T649"/>
+<tli id="T650"/>
+<tli id="T651"/>
+<tli id="T652"/>
+<tli id="T653"/>
+<tli id="T654"/>
+<tli id="T655"/>
+<tli id="T656"/>
+<tli id="T657"/>
+<tli id="T658"/>
+<tli id="T659"/>
+<tli id="T660"/>
+<tli id="T661"/>
+<tli id="T662"/>
+<tli id="T663"/>
+<tli id="T664"/>
+<tli id="T665"/>
+<tli id="T666"/>
+<tli id="T667"/>
+<tli id="T668"/>
+<tli id="T669"/>
+<tli id="T670"/>
+<tli id="T671"/>
+<tli id="T672"/>
+<tli id="T673"/>
+<tli id="T674"/>
+<tli id="T675"/>
+<tli id="T676"/>
+<tli id="T677"/>
+<tli id="T678"/>
+<tli id="T679"/>
+<tli id="T680"/>
+<tli id="T681"/>
+<tli id="T682"/>
+<tli id="T683"/>
+<tli id="T684"/>
+<tli id="T685"/>
+<tli id="T686"/>
+<tli id="T687"/>
+<tli id="T688"/>
+<tli id="T689"/>
+<tli id="T690"/>
+<tli id="T691"/>
+<tli id="T692"/>
+<tli id="T693"/>
+<tli id="T694"/>
+<tli id="T695"/>
+<tli id="T696"/>
+<tli id="T697"/>
+<tli id="T698"/>
+<tli id="T699"/>
+<tli id="T700"/>
+<tli id="T701"/>
+<tli id="T702"/>
+<tli id="T703"/>
+<tli id="T704"/>
+<tli id="T705"/>
+<tli id="T706"/>
+<tli id="T707"/>
+<tli id="T708"/>
+<tli id="T709"/>
+<tli id="T710"/>
+<tli id="T711"/>
+<tli id="T712"/>
+<tli id="T713"/>
+<tli id="T714"/>
+<tli id="T715"/>
+<tli id="T716"/>
+<tli id="T717"/>
+<tli id="T718"/>
+<tli id="T719"/>
+<tli id="T720"/>
+<tli id="T721"/>
+<tli id="T722"/>
+<tli id="T723"/>
+<tli id="T724"/>
+<tli id="T725"/>
+<tli id="T726"/>
+<tli id="T727"/>
+<tli id="T728"/>
+<tli id="T729"/>
+<tli id="T730"/>
+<tli id="T731"/>
+<tli id="T732"/>
+<tli id="T733"/>
+<tli id="T734"/>
+<tli id="T735"/>
+<tli id="T736"/>
+<tli id="T737"/>
+<tli id="T738"/>
+<tli id="T739"/>
+<tli id="T740"/>
+<tli id="T741"/>
+<tli id="T742"/>
+<tli id="T743"/>
+<tli id="T744"/>
+<tli id="T745"/>
+<tli id="T746"/>
+<tli id="T747"/>
+<tli id="T748"/>
+<tli id="T749"/>
+<tli id="T750"/>
+<tli id="T751"/>
+<tli id="T752"/>
+<tli id="T753"/>
+<tli id="T754"/>
+<tli id="T755"/>
+<tli id="T756"/>
+<tli id="T757"/>
+<tli id="T758"/>
+<tli id="T759"/>
+<tli id="T760"/>
+<tli id="T761"/>
+<tli id="T762"/>
+<tli id="T763"/>
+<tli id="T764"/>
+<tli id="T765"/>
+<tli id="T766"/>
+<tli id="T767"/>
+<tli id="T768"/>
+<tli id="T769"/>
+<tli id="T770"/>
+<tli id="T771"/>
+<tli id="T772"/>
+<tli id="T773"/>
+<tli id="T774"/>
+<tli id="T775"/>
+<tli id="T776"/>
+<tli id="T777"/>
+<tli id="T778"/>
+<tli id="T779"/>
+<tli id="T780"/>
+<tli id="T781"/>
+<tli id="T782"/>
+<tli id="T783"/>
+<tli id="T784"/>
+<tli id="T785"/>
+<tli id="T786"/>
+<tli id="T787"/>
+<tli id="T788"/>
+<tli id="T789"/>
+<tli id="T790"/>
+<tli id="T791"/>
+<tli id="T792"/>
+<tli id="T793"/>
+<tli id="T794"/>
+<tli id="T795"/>
+<tli id="T796"/>
+<tli id="T797"/>
+<tli id="T798"/>
+<tli id="T799"/>
+<tli id="T800"/>
+<tli id="T801"/>
+<tli id="T802"/>
+<tli id="T803"/>
+<tli id="T804"/>
+<tli id="T805"/>
+<tli id="T806"/>
+<tli id="T807"/>
+<tli id="T808"/>
+<tli id="T809"/>
+<tli id="T810"/>
+<tli id="T811"/>
+<tli id="T812"/>
+<tli id="T813"/>
+<tli id="T814"/>
+<tli id="T815"/>
+<tli id="T816"/>
+<tli id="T817"/>
+<tli id="T818"/>
+<tli id="T819"/>
+<tli id="T820"/>
+<tli id="T821"/>
+<tli id="T822"/>
+<tli id="T823"/>
+<tli id="T824"/>
+<tli id="T825"/>
+<tli id="T826"/>
+<tli id="T827"/>
+<tli id="T828"/>
+<tli id="T829"/>
+<tli id="T830"/>
+<tli id="T831"/>
+<tli id="T832"/>
+<tli id="T833"/>
+<tli id="T834"/>
+<tli id="T835"/>
+<tli id="T836"/>
+<tli id="T837"/>
+<tli id="T838"/>
+<tli id="T839"/>
+<tli id="T840"/>
+<tli id="T841"/>
+<tli id="T842"/>
+<tli id="T843"/>
+<tli id="T844"/>
+<tli id="T845"/>
+<tli id="T846"/>
+<tli id="T847"/>
+<tli id="T848"/>
+<tli id="T849"/>
+<tli id="T850"/>
+<tli id="T851"/>
+<tli id="T852"/>
+<tli id="T853"/>
+<tli id="T854"/>
+<tli id="T855"/>
+<tli id="T856"/>
+<tli id="T857"/>
+<tli id="T858"/>
+<tli id="T859"/>
+<tli id="T860"/>
+<tli id="T861"/>
+<tli id="T862"/>
+<tli id="T863"/>
+<tli id="T864"/>
+<tli id="T865"/>
+<tli id="T866"/>
+<tli id="T867"/>
+<tli id="T868"/>
+<tli id="T869"/>
+<tli id="T870"/>
+<tli id="T871"/>
+<tli id="T872"/>
+<tli id="T873"/>
+<tli id="T874"/>
+<tli id="T875"/>
+<tli id="T876"/>
+<tli id="T877"/>
+<tli id="T878"/>
+<tli id="T879"/>
+<tli id="T880"/>
+<tli id="T881"/>
+<tli id="T882"/>
+<tli id="T883"/>
+<tli id="T884"/>
+<tli id="T885"/>
+<tli id="T886"/>
+<tli id="T887"/>
+<tli id="T888"/>
+<tli id="T889"/>
+<tli id="T890"/>
+<tli id="T891"/>
+<tli id="T892"/>
+<tli id="T893"/>
+<tli id="T894"/>
+<tli id="T895"/>
+<tli id="T896"/>
+<tli id="T897"/>
+<tli id="T898"/>
+<tli id="T899"/>
+<tli id="T900"/>
+<tli id="T901"/>
+<tli id="T902"/>
+<tli id="T903"/>
+<tli id="T904"/>
+<tli id="T905"/>
+<tli id="T906"/>
+<tli id="T907"/>
+<tli id="T908"/>
+<tli id="T909"/>
+<tli id="T910"/>
+<tli id="T911"/>
+<tli id="T912"/>
+<tli id="T913"/>
+<tli id="T914"/>
+<tli id="T915"/>
+<tli id="T916"/>
+<tli id="T917"/>
+<tli id="T918"/>
+<tli id="T919"/>
+<tli id="T920"/>
+<tli id="T921"/>
+<tli id="T922"/>
+<tli id="T923"/>
+<tli id="T924"/>
+<tli id="T925"/>
+<tli id="T926"/>
+<tli id="T927"/>
+<tli id="T928"/>
+<tli id="T929"/>
+<tli id="T930"/>
+<tli id="T931"/>
+<tli id="T932"/>
+<tli id="T933"/>
+<tli id="T934"/>
+<tli id="T935"/>
+<tli id="T936"/>
+<tli id="T937"/>
+<tli id="T938"/>
+<tli id="T939"/>
+<tli id="T940"/>
+<tli id="T941"/>
+<tli id="T942"/>
+<tli id="T943"/>
+<tli id="T944"/>
+<tli id="T945"/>
+<tli id="T946"/>
+<tli id="T947"/>
+<tli id="T948"/>
+<tli id="T949"/>
+<tli id="T950"/>
+<tli id="T951"/>
+<tli id="T952"/>
+<tli id="T953"/>
+<tli id="T954"/>
+<tli id="T955"/>
+<tli id="T956"/>
+<tli id="T957"/>
+<tli id="T958"/>
+<tli id="T959"/>
+<tli id="T960"/>
+<tli id="T961"/>
+<tli id="T962"/>
+<tli id="T963"/>
+<tli id="T964"/>
+<tli id="T965"/>
+<tli id="T966"/>
+<tli id="T967"/>
+<tli id="T968"/>
+<tli id="T969"/>
+<tli id="T970"/>
+<tli id="T971"/>
+<tli id="T972"/>
+<tli id="T973"/>
+<tli id="T974"/>
+<tli id="T975"/>
+<tli id="T976"/>
+<tli id="T977"/>
+<tli id="T978"/>
+<tli id="T979"/>
+<tli id="T980"/>
+<tli id="T981"/>
+<tli id="T982"/>
+<tli id="T983"/>
+<tli id="T984"/>
+<tli id="T985"/>
+<tli id="T986"/>
+<tli id="T987"/>
+<tli id="T988"/>
+<tli id="T989"/>
+<tli id="T990"/>
+<tli id="T991"/>
+<tli id="T992"/>
+<tli id="T993"/>
+<tli id="T994"/>
+<tli id="T995"/>
+<tli id="T996"/>
+<tli id="T997"/>
+<tli id="T998"/>
+<tli id="T999"/>
+<tli id="T1000"/>
+<tli id="T1001"/>
+<tli id="T1002"/>
+<tli id="T1003"/>
+<tli id="T1004"/>
+<tli id="T1005"/>
+<tli id="T1006"/>
+<tli id="T1007"/>
+<tli id="T1008"/>
+<tli id="T1009"/>
+<tli id="T1010"/>
+<tli id="T1011"/>
+<tli id="T1012"/>
+<tli id="T1013"/>
+<tli id="T1014"/>
+<tli id="T1015"/>
+<tli id="T1016"/>
+<tli id="T1017"/>
+<tli id="T1018"/>
+<tli id="T1019"/>
+<tli id="T1020"/>
+<tli id="T1021"/>
+<tli id="T1022"/>
+<tli id="T1023"/>
+<tli id="T1024"/>
+<tli id="T1025"/>
+<tli id="T1026"/>
+<tli id="T1027"/>
+<tli id="T1028"/>
+<tli id="T1029"/>
+<tli id="T1030"/>
+<tli id="T1031"/>
+<tli id="T1032"/>
+<tli id="T1033"/>
+<tli id="T1034"/>
+<tli id="T1035"/>
+<tli id="T1036"/>
+<tli id="T1037"/>
+<tli id="T1038"/>
+<tli id="T1039"/>
+<tli id="T1040"/>
+<tli id="T1041"/>
+<tli id="T1042"/>
+<tli id="T1043"/>
+<tli id="T1044"/>
+<tli id="T1045"/>
+<tli id="T1046"/>
+<tli id="T1047"/>
+<tli id="T1048"/>
+<tli id="T1049"/>
+<tli id="T1050"/>
+<tli id="T1051"/>
+<tli id="T1052"/>
+<tli id="T1053"/>
+<tli id="T1054"/>
+<tli id="T1055"/>
+<tli id="T1056"/>
+<tli id="T1057"/>
+<tli id="T1058"/>
+<tli id="T1059"/>
+<tli id="T1060"/>
+<tli id="T1061"/>
+<tli id="T1062"/>
+<tli id="T1063"/>
+<tli id="T1064"/>
+<tli id="T1065"/>
+<tli id="T1066"/>
+<tli id="T1067"/>
+<tli id="T1068"/>
+<tli id="T1069"/>
+<tli id="T1070"/>
+<tli id="T1071"/>
+<tli id="T1072"/>
+<tli id="T1073"/>
+<tli id="T1074"/>
+<tli id="T1075"/>
+<tli id="T1076"/>
+<tli id="T1077"/>
+<tli id="T1078"/>
+<tli id="T1079"/>
+<tli id="T1080"/>
+<tli id="T1081"/>
+<tli id="T1082"/>
+<tli id="T1083"/>
+<tli id="T1084"/>
+<tli id="T1085"/>
+<tli id="T1086"/>
+<tli id="T1087"/>
+<tli id="T1088"/>
+<tli id="T1089"/>
+<tli id="T1090"/>
+<tli id="T1091"/>
+<tli id="T1092"/>
+<tli id="T1093"/>
+<tli id="T1094"/>
+<tli id="T1095"/>
+<tli id="T1096"/>
+<tli id="T1097"/>
+<tli id="T1098"/>
+<tli id="T1099"/>
+<tli id="T1100"/>
+<tli id="T1101"/>
+<tli id="T1102"/>
+<tli id="T1103"/>
+<tli id="T1104"/>
+<tli id="T1105"/>
+<tli id="T1106"/>
+<tli id="T1107"/>
+<tli id="T1108"/>
+<tli id="T1109"/>
+<tli id="T1110"/>
+<tli id="T1111"/>
+<tli id="T1112"/>
+<tli id="T1113"/>
+<tli id="T1114"/>
+<tli id="T1115"/>
+<tli id="T1116"/>
+<tli id="T1117"/>
+<tli id="T1118"/>
+<tli id="T1119"/>
+<tli id="T1120"/>
+<tli id="T1121"/>
+<tli id="T1122"/>
+<tli id="T1123"/>
+<tli id="T1124"/>
+<tli id="T1125"/>
+<tli id="T1126"/>
+<tli id="T1127"/>
+<tli id="T1128"/>
+<tli id="T1129"/>
+<tli id="T1130"/>
+<tli id="T1131"/>
+<tli id="T1132"/>
+<tli id="T1133"/>
+<tli id="T1134"/>
+<tli id="T1135"/>
+<tli id="T1136"/>
+<tli id="T1137"/>
+<tli id="T1138"/>
+<tli id="T1139"/>
+<tli id="T1140"/>
+<tli id="T1141"/>
+<tli id="T1142"/>
+<tli id="T1143"/>
+<tli id="T1144"/>
+<tli id="T1145"/>
+<tli id="T1146"/>
+<tli id="T1147"/>
+<tli id="T1148"/>
+<tli id="T1149"/>
+<tli id="T1150"/>
+<tli id="T1151"/>
+<tli id="T1152"/>
+<tli id="T1153"/>
+<tli id="T1154"/>
+<tli id="T1155"/>
+<tli id="T1156"/>
+<tli id="T1157"/>
+<tli id="T1158"/>
+<tli id="T1159"/>
+<tli id="T1160"/>
+<tli id="T1161"/>
+<tli id="T1162"/>
+<tli id="T1163"/>
+<tli id="T1164"/>
+<tli id="T1165"/>
+<tli id="T1166"/>
+<tli id="T1167"/>
+<tli id="T1168"/>
+<tli id="T1169"/>
+<tli id="T1170"/>
+<tli id="T1171"/>
+<tli id="T1172"/>
+<tli id="T1173"/>
+<tli id="T1174"/>
+<tli id="T1175"/>
+<tli id="T1176"/>
+<tli id="T1177"/>
+<tli id="T1178"/>
+<tli id="T1179"/>
+<tli id="T1180"/>
+<tli id="T1181"/>
+<tli id="T1182"/>
+<tli id="T1183"/>
+<tli id="T1184"/>
+<tli id="T1185"/>
+<tli id="T1186"/>
+<tli id="T1187"/>
+<tli id="T1188"/>
+<tli id="T1189"/>
+<tli id="T1190"/>
+<tli id="T1191"/>
+<tli id="T1192"/>
+<tli id="T1193"/>
+<tli id="T1194"/>
+<tli id="T1195"/>
+<tli id="T1196"/>
+<tli id="T1197"/>
+<tli id="T1198"/>
+<tli id="T1199"/>
+<tli id="T1200"/>
+<tli id="T1201"/>
+<tli id="T1202"/>
+<tli id="T1203"/>
+<tli id="T1204"/>
+<tli id="T1205"/>
+<tli id="T1206"/>
+<tli id="T1207"/>
+<tli id="T1208"/>
+<tli id="T1209"/>
+<tli id="T1210"/>
+<tli id="T1211"/>
+<tli id="T1212"/>
+<tli id="T1213"/>
+<tli id="T1214"/>
+<tli id="T1215"/>
+<tli id="T1216"/>
+<tli id="T1217"/>
+<tli id="T1218"/>
+<tli id="T1219"/>
+<tli id="T1220"/>
+<tli id="T1221"/>
+<tli id="T1222"/>
+<tli id="T1223"/>
+<tli id="T1224"/>
+<tli id="T1225"/>
+<tli id="T1226"/>
+<tli id="T1227"/>
+<tli id="T1228"/>
+<tli id="T1229"/>
+<tli id="T1230"/>
+<tli id="T1231"/>
+<tli id="T1232"/>
+<tli id="T1233"/>
+<tli id="T1234"/>
+<tli id="T1235"/>
+<tli id="T1236"/>
+<tli id="T1237"/>
+<tli id="T1238"/>
+<tli id="T1239"/>
+<tli id="T1240"/>
+<tli id="T1241"/>
+<tli id="T1242"/>
+<tli id="T1243"/>
+<tli id="T1244"/>
+<tli id="T1245"/>
+<tli id="T1246"/>
+<tli id="T1247"/>
+<tli id="T1248"/>
+<tli id="T1249"/>
+<tli id="T1250"/>
+<tli id="T1251"/>
+<tli id="T1252"/>
+<tli id="T1253"/>
+<tli id="T1254"/>
+<tli id="T1255"/>
+<tli id="T1256"/>
+<tli id="T1257"/>
+<tli id="T1258"/>
+<tli id="T1259"/>
+<tli id="T1260"/>
+<tli id="T1261"/>
+<tli id="T1262"/>
+<tli id="T1263"/>
+<tli id="T1264"/>
+<tli id="T1265"/>
+<tli id="T1266"/>
+<tli id="T1267"/>
+<tli id="T1268"/>
+<tli id="T1269"/>
+<tli id="T1270"/>
+<tli id="T1271"/>
+<tli id="T1272"/>
+<tli id="T1273"/>
+<tli id="T1274"/>
+<tli id="T1275"/>
+<tli id="T1276"/>
+<tli id="T1277"/>
+<tli id="T1278"/>
+<tli id="T1279"/>
+<tli id="T1280"/>
+<tli id="T1281"/>
+<tli id="T1282"/>
+<tli id="T1283"/>
+<tli id="T1284"/>
+<tli id="T1285"/>
+<tli id="T1286"/>
+<tli id="T1287"/>
+<tli id="T1288"/>
+<tli id="T1289"/>
+<tli id="T1290"/>
+<tli id="T1291"/>
+<tli id="T1292"/>
+<tli id="T1293"/>
+<tli id="T1294"/>
+<tli id="T1295"/>
+<tli id="T1296"/>
+<tli id="T1297"/>
+<tli id="T1298"/>
+<tli id="T1299"/>
+<tli id="T1300"/>
+<tli id="T1301"/>
+<tli id="T1302"/>
+<tli id="T1303"/>
+<tli id="T1304"/>
+<tli id="T1305"/>
+<tli id="T1306"/>
+<tli id="T1307"/>
+<tli id="T1308"/>
+<tli id="T1309"/>
+<tli id="T1310"/>
+<tli id="T1311"/>
+<tli id="T1312"/>
+<tli id="T1313"/>
+<tli id="T1314"/>
+<tli id="T1315"/>
+<tli id="T1316"/>
+<tli id="T1317"/>
+<tli id="T1318"/>
+<tli id="T1319"/>
+<tli id="T1320"/>
+<tli id="T1321"/>
+<tli id="T1322"/>
+<tli id="T1323"/>
+<tli id="T1324"/>
+<tli id="T1325"/>
+<tli id="T1326"/>
+<tli id="T1327"/>
+<tli id="T1328"/>
+<tli id="T1329"/>
+<tli id="T1330"/>
+<tli id="T1331"/>
+<tli id="T1332"/>
+<tli id="T1333"/>
+<tli id="T1334"/>
+<tli id="T1335"/>
+<tli id="T1336"/>
+<tli id="T1337"/>
+<tli id="T1338"/>
+<tli id="T1339"/>
+<tli id="T1340"/>
+<tli id="T1341"/>
+<tli id="T1342"/>
+<tli id="T1343"/>
+<tli id="T1344"/>
+<tli id="T1345"/>
+<tli id="T1346"/>
+<tli id="T1347"/>
+<tli id="T1348"/>
+<tli id="T1349"/>
+<tli id="T1350"/>
+<tli id="T1351"/>
+<tli id="T1352"/>
+<tli id="T1353"/>
+<tli id="T1354"/>
+<tli id="T1355"/>
+<tli id="T1356"/>
+<tli id="T1357"/>
+<tli id="T1358"/>
+<tli id="T1359"/>
+<tli id="T1360"/>
+<tli id="T1361"/>
+<tli id="T1362"/>
+<tli id="T1363"/>
+<tli id="T1364"/>
+<tli id="T1365"/>
+<tli id="T1366"/>
+<tli id="T1367"/>
+<tli id="T1368"/>
+<tli id="T1369"/>
+<tli id="T1370"/>
+<tli id="T1371"/>
+<tli id="T1372"/>
+<tli id="T1373"/>
+<tli id="T1374"/>
+<tli id="T1375"/>
+<tli id="T1376"/>
+<tli id="T1377"/>
+<tli id="T1378"/>
+<tli id="T1379"/>
+<tli id="T1380"/>
+<tli id="T1381"/>
+<tli id="T1382"/>
+<tli id="T1383"/>
+<tli id="T1384"/>
+<tli id="T1385"/>
+<tli id="T1386"/>
+<tli id="T1387"/>
+<tli id="T1388"/>
+<tli id="T1389"/>
+<tli id="T1390"/>
+<tli id="T1391"/>
+<tli id="T1392"/>
+<tli id="T1393"/>
+<tli id="T1394"/>
+<tli id="T1395"/>
+<tli id="T1396"/>
+<tli id="T1397"/>
+<tli id="T1398"/>
+<tli id="T1399"/>
+<tli id="T1400"/>
+<tli id="T1401"/>
+<tli id="T1402"/>
+<tli id="T1403"/>
+<tli id="T1404"/>
+<tli id="T1405"/>
+<tli id="T1406"/>
+<tli id="T1407"/>
+<tli id="T1408"/>
+<tli id="T1409"/>
+<tli id="T1410"/>
+<tli id="T1411"/>
+<tli id="T1412"/>
+<tli id="T1413"/>
+<tli id="T1414"/>
+<tli id="T1415"/>
+<tli id="T1416"/>
+<tli id="T1417"/>
+<tli id="T1418"/>
+<tli id="T1419"/>
+<tli id="T1420"/>
+<tli id="T1421"/>
+<tli id="T1422"/>
+<tli id="T1423"/>
+<tli id="T1424"/>
+<tli id="T1425"/>
+<tli id="T1426"/>
+<tli id="T1427"/>
+<tli id="T1428"/>
+<tli id="T1429"/>
+<tli id="T1430"/>
+<tli id="T1431"/>
+<tli id="T1432"/>
+<tli id="T1433"/>
+<tli id="T1434"/>
+<tli id="T1435"/>
+<tli id="T1436"/>
+<tli id="T1437"/>
+<tli id="T1438"/>
+<tli id="T1439"/>
+<tli id="T1440"/>
+<tli id="T1441"/>
+<tli id="T1442"/>
+<tli id="T1443"/>
+<tli id="T1444"/>
+<tli id="T1445"/>
+<tli id="T1446"/>
+<tli id="T1447"/>
+<tli id="T1448"/>
+<tli id="T1449"/>
+<tli id="T1450"/>
+<tli id="T1451"/>
+<tli id="T1452"/>
+<tli id="T1453"/>
+<tli id="T1454"/>
+<tli id="T1455"/>
+<tli id="T1456"/>
+<tli id="T1457"/>
+<tli id="T1458"/>
+<tli id="T1459"/>
+<tli id="T1460"/>
+<tli id="T1461"/>
+<tli id="T1462"/>
+<tli id="T1463"/>
+<tli id="T1464"/>
+<tli id="T1465"/>
+<tli id="T1466"/>
+<tli id="T1467"/>
+<tli id="T1468"/>
+<tli id="T1469"/>
+<tli id="T1470"/>
+<tli id="T1471"/>
+<tli id="T1472"/>
+<tli id="T1473"/>
+<tli id="T1474"/>
+<tli id="T1475"/>
+<tli id="T1476"/>
+<tli id="T1477"/>
+<tli id="T1478"/>
+<tli id="T1479"/>
+<tli id="T1480"/>
+<tli id="T1481"/>
+<tli id="T1482"/>
+<tli id="T1483"/>
+<tli id="T1484"/>
+<tli id="T1485"/>
+<tli id="T1486"/>
+<tli id="T1487"/>
+<tli id="T1488"/>
+<tli id="T1489"/>
+<tli id="T1490"/>
+<tli id="T1491"/>
+<tli id="T1492"/>
+<tli id="T1493"/>
+<tli id="T1494"/>
+<tli id="T1495"/>
+<tli id="T1496"/>
+<tli id="T1497"/>
+<tli id="T1498"/>
+<tli id="T1499"/>
+<tli id="T1500"/>
+<tli id="T1501"/>
+<tli id="T1502"/>
+<tli id="T1503"/>
+<tli id="T1504"/>
+<tli id="T1505"/>
+<tli id="T1506"/>
+<tli id="T1507"/>
+<tli id="T1508"/>
+<tli id="T1509"/>
+<tli id="T1510"/>
+<tli id="T1511"/>
+<tli id="T1512"/>
+<tli id="T1513"/>
+<tli id="T1514"/>
+<tli id="T1515"/>
+<tli id="T1516"/>
+<tli id="T1517"/>
+<tli id="T1518"/>
+<tli id="T1519"/>
+<tli id="T1520"/>
+<tli id="T1521"/>
+<tli id="T1522"/>
+<tli id="T1523"/>
+<tli id="T1524"/>
+<tli id="T1525"/>
+<tli id="T1526"/>
+<tli id="T1527"/>
+<tli id="T1528"/>
+<tli id="T1529"/>
+<tli id="T1530"/>
+<tli id="T1531"/>
+<tli id="T1532"/>
+<tli id="T1533"/>
+<tli id="T1534"/>
+<tli id="T1535"/>
+<tli id="T1536"/>
+<tli id="T1537"/>
+<tli id="T1538"/>
+<tli id="T1539"/>
+<tli id="T1540"/>
+<tli id="T1541"/>
+<tli id="T1542"/>
+<tli id="T1543"/>
+<tli id="T1544"/>
+<tli id="T1545"/>
+<tli id="T1546"/>
+<tli id="T1547"/>
+<tli id="T1548"/>
+<tli id="T1549"/>
+<tli id="T1550"/>
+<tli id="T1551"/>
+<tli id="T1552"/>
+<tli id="T1553"/>
+<tli id="T1554"/>
+<tli id="T1555"/>
+<tli id="T1556"/>
+<tli id="T1557"/>
+<tli id="T1558"/>
+<tli id="T1559"/>
+<tli id="T1560"/>
+<tli id="T1561"/>
+<tli id="T1562"/>
+<tli id="T1563"/>
+<tli id="T1564"/>
+<tli id="T1565"/>
+<tli id="T1566"/>
+<tli id="T1567"/>
+<tli id="T1568"/>
+<tli id="T1569"/>
+<tli id="T1570"/>
+<tli id="T1571"/>
+<tli id="T1572"/>
+<tli id="T1573"/>
+<tli id="T1574"/>
+<tli id="T1575"/>
+<tli id="T1576"/>
+<tli id="T1577"/>
+<tli id="T1578"/>
+<tli id="T1579"/>
+<tli id="T1580"/>
+<tli id="T1581"/>
+<tli id="T1582"/>
+<tli id="T1583"/>
+<tli id="T1584"/>
+<tli id="T1585"/>
+<tli id="T1586"/>
+<tli id="T1587"/>
+<tli id="T1588"/>
+<tli id="T1589"/>
+<tli id="T1590"/>
+<tli id="T1591"/>
+<tli id="T1592"/>
+<tli id="T1593"/>
+<tli id="T1594"/>
+<tli id="T1595"/>
+<tli id="T1596"/>
+<tli id="T1597"/>
+<tli id="T1598"/>
+<tli id="T1599"/>
+<tli id="T1600"/>
+<tli id="T1601"/>
+<tli id="T1602"/>
+<tli id="T1603"/>
+<tli id="T1604"/>
+<tli id="T1605"/>
+<tli id="T1606"/>
+<tli id="T1607"/>
+<tli id="T1608"/>
+<tli id="T1609"/>
+<tli id="T1610"/>
+<tli id="T1611"/>
+<tli id="T1612"/>
+<tli id="T1613"/>
+<tli id="T1614"/>
+<tli id="T1615"/>
+<tli id="T1616"/>
+<tli id="T1617"/>
+<tli id="T1618"/>
+<tli id="T1619"/>
+<tli id="T1620"/>
+<tli id="T1621"/>
+<tli id="T1622"/>
+<tli id="T1623"/>
+<tli id="T1624"/>
+<tli id="T1625"/>
+<tli id="T1626"/>
+<tli id="T1627"/>
+<tli id="T1628"/>
+<tli id="T1629"/>
+<tli id="T1630"/>
+<tli id="T1631"/>
+<tli id="T1632"/>
+<tli id="T1633"/>
+<tli id="T1634"/>
+<tli id="T1635"/>
+<tli id="T1636"/>
+<tli id="T1637"/>
+<tli id="T1638"/>
+<tli id="T1639"/>
+<tli id="T1640"/>
+<tli id="T1641"/>
+<tli id="T1642"/>
+<tli id="T1643"/>
+<tli id="T1644"/>
+<tli id="T1645"/>
+<tli id="T1646"/>
+<tli id="T1647"/>
+<tli id="T1648"/>
+<tli id="T1649"/>
+<tli id="T1650"/>
+<tli id="T1651"/>
+<tli id="T1652"/>
+<tli id="T1653"/>
+<tli id="T1654"/>
+<tli id="T1655"/>
+<tli id="T1656"/>
+<tli id="T1657"/>
+<tli id="T1658"/>
+<tli id="T1659"/>
+<tli id="T1660"/>
+<tli id="T1661"/>
+<tli id="T1662"/>
+<tli id="T1663"/>
+<tli id="T1664"/>
+<tli id="T1665"/>
+<tli id="T1666"/>
+<tli id="T1667"/>
+<tli id="T1668"/>
+<tli id="T1669"/>
+<tli id="T1670"/>
+<tli id="T1671"/>
+<tli id="T1672"/>
+<tli id="T1673"/>
+<tli id="T1674"/>
+<tli id="T1675"/>
+<tli id="T1676"/>
+<tli id="T1677"/>
+<tli id="T1678"/>
+<tli id="T1679"/>
+<tli id="T1680"/>
+<tli id="T1681"/>
+<tli id="T1682"/>
+<tli id="T1683"/>
+<tli id="T1684"/>
+<tli id="T1685"/>
+<tli id="T1686"/>
+<tli id="T1687"/>
+<tli id="T1688"/>
+<tli id="T1689"/>
+<tli id="T1690"/>
+<tli id="T1691"/>
+<tli id="T1692"/>
+<tli id="T1693"/>
+<tli id="T1694"/>
+<tli id="T1695"/>
+<tli id="T1696"/>
+<tli id="T1697"/>
+<tli id="T1698"/>
+<tli id="T1699"/>
+<tli id="T1700"/>
+<tli id="T1701"/>
+<tli id="T1702"/>
+<tli id="T1703"/>
+<tli id="T1704"/>
+<tli id="T1705"/>
+<tli id="T1706"/>
+<tli id="T1707"/>
+<tli id="T1708"/>
+<tli id="T1709"/>
+<tli id="T1710"/>
+<tli id="T1711"/>
+<tli id="T1712"/>
+<tli id="T1713"/>
+<tli id="T1714"/>
+<tli id="T1715"/>
+<tli id="T1716"/>
+<tli id="T1717"/>
+<tli id="T1718"/>
+<tli id="T1719"/>
+<tli id="T1720"/>
+<tli id="T1721"/>
+<tli id="T1722"/>
+<tli id="T1723"/>
+<tli id="T1724"/>
+<tli id="T1725"/>
+<tli id="T1726"/>
+<tli id="T1727"/>
+<tli id="T1728"/>
+<tli id="T1729"/>
+<tli id="T1730"/>
+<tli id="T1731"/>
+<tli id="T1732"/>
+<tli id="T1733"/>
+<tli id="T1734"/>
+<tli id="T1735"/>
+<tli id="T1736"/>
+<tli id="T1737"/>
+<tli id="T1738"/>
+<tli id="T1739"/>
+<tli id="T1740"/>
+<tli id="T1741"/>
+<tli id="T1742"/>
+<tli id="T1743"/>
+<tli id="T1744"/>
+<tli id="T1745"/>
+<tli id="T1746"/>
+<tli id="T1747"/>
+<tli id="T1748"/>
+<tli id="T1749"/>
+<tli id="T1750"/>
+<tli id="T1751"/>
+<tli id="T1752"/>
+<tli id="T1753"/>
+<tli id="T1754"/>
+<tli id="T1755"/>
+<tli id="T1756"/>
+<tli id="T1757"/>
+<tli id="T1758"/>
+<tli id="T1759"/>
+<tli id="T1760"/>
+<tli id="T1761"/>
+<tli id="T1762"/>
+<tli id="T1763"/>
+<tli id="T1764"/>
+<tli id="T1765"/>
+<tli id="T1766"/>
+<tli id="T1767"/>
+<tli id="T1768"/>
+<tli id="T1769"/>
+<tli id="T1770"/>
+<tli id="T1771"/>
+<tli id="T1772"/>
+<tli id="T1773"/>
+<tli id="T1774"/>
+<tli id="T1775"/>
+<tli id="T1776"/>
+<tli id="T1777"/>
+<tli id="T1778"/>
+<tli id="T1779"/>
+<tli id="T1780"/>
+<tli id="T1781"/>
+<tli id="T1782"/>
+<tli id="T1783"/>
+<tli id="T1784"/>
+<tli id="T1785"/>
+<tli id="T1786"/>
+<tli id="T1787"/>
+<tli id="T1788"/>
+<tli id="T1789"/>
+<tli id="T1790"/>
+<tli id="T1791"/>
+<tli id="T1792"/>
+<tli id="T1793"/>
+<tli id="T1794"/>
+<tli id="T1795"/>
+<tli id="T1796"/>
+<tli id="T1797"/>
+<tli id="T1798"/>
+<tli id="T1799"/>
+<tli id="T1800"/>
+<tli id="T1801"/>
+<tli id="T1802"/>
+<tli id="T1803"/>
+<tli id="T1804"/>
+<tli id="T1805"/>
+<tli id="T1806"/>
+<tli id="T1807"/>
+<tli id="T1808"/>
+<tli id="T1809"/>
+<tli id="T1810"/>
+<tli id="T1811"/>
+<tli id="T1812"/>
+<tli id="T1813"/>
+<tli id="T1814"/>
+<tli id="T1815"/>
+<tli id="T1816"/>
+<tli id="T1817"/>
+<tli id="T1818"/>
+<tli id="T1819"/>
+<tli id="T1820"/>
+<tli id="T1821"/>
+<tli id="T1822"/>
+<tli id="T1823"/>
+<tli id="T1824"/>
+<tli id="T1825"/>
+<tli id="T1826"/>
+<tli id="T1827"/>
+<tli id="T1828"/>
+<tli id="T1829"/>
+<tli id="T1830"/>
+<tli id="T1831"/>
+<tli id="T1832"/>
+<tli id="T1833"/>
+<tli id="T1834"/>
+<tli id="T1835"/>
+<tli id="T1836"/>
+<tli id="T1837"/>
+<tli id="T1838"/>
+<tli id="T1839"/>
+<tli id="T1840"/>
+<tli id="T1841"/>
+<tli id="T1842"/>
+<tli id="T1843"/>
+<tli id="T1844"/>
+<tli id="T1845"/>
+<tli id="T1846"/>
+<tli id="T1847"/>
+<tli id="T1848"/>
+<tli id="T1849"/>
+<tli id="T1850"/>
+<tli id="T1851"/>
+<tli id="T1852"/>
+<tli id="T1853"/>
+<tli id="T1854"/>
+<tli id="T1855"/>
+<tli id="T1856"/>
+<tli id="T1857"/>
+<tli id="T1858"/>
+<tli id="T1859"/>
+<tli id="T1860"/>
+<tli id="T1861"/>
+<tli id="T1862"/>
+<tli id="T1863"/>
+<tli id="T1864"/>
+<tli id="T1865"/>
+<tli id="T1866"/>
+<tli id="T1867"/>
+<tli id="T1868"/>
+<tli id="T1869"/>
+<tli id="T1870"/>
+<tli id="T1871"/>
+<tli id="T1872"/>
+<tli id="T1873"/>
+<tli id="T1874"/>
+<tli id="T1875"/>
+<tli id="T1876"/>
+<tli id="T1877"/>
+<tli id="T1878"/>
+<tli id="T1879"/>
+<tli id="T1880"/>
+<tli id="T1881"/>
+<tli id="T1882"/>
+<tli id="T1883"/>
+<tli id="T1884"/>
+<tli id="T1885"/>
+<tli id="T1886"/>
+<tli id="T1887"/>
+<tli id="T1888"/>
+<tli id="T1889"/>
+<tli id="T1890"/>
+<tli id="T1891"/>
+<tli id="T1892"/>
+<tli id="T1893"/>
+<tli id="T1894"/>
+<tli id="T1895"/>
+<tli id="T1896"/>
+<tli id="T1897"/>
+<tli id="T1898"/>
+<tli id="T1899"/>
+<tli id="T1900"/>
+<tli id="T1901"/>
+<tli id="T1902"/>
+<tli id="T1903"/>
+<tli id="T1904"/>
+<tli id="T1905"/>
+<tli id="T1906"/>
+<tli id="T1907"/>
+<tli id="T1908"/>
+<tli id="T1909"/>
+<tli id="T1910"/>
+<tli id="T1911"/>
+<tli id="T1912"/>
+<tli id="T1913"/>
+<tli id="T1914"/>
+<tli id="T1915"/>
+<tli id="T1916"/>
+<tli id="T1917"/>
+<tli id="T1918"/>
+<tli id="T1919"/>
+<tli id="T1920"/>
+<tli id="T1921"/>
+<tli id="T1922"/>
+<tli id="T1923"/>
+<tli id="T1924"/>
+<tli id="T1925"/>
+<tli id="T1926"/>
+<tli id="T1927"/>
+<tli id="T1928"/>
+<tli id="T1929"/>
+<tli id="T1930"/>
+<tli id="T1931"/>
+<tli id="T1932"/>
+<tli id="T1933"/>
+<tli id="T1934"/>
+<tli id="T1935"/>
+<tli id="T1936"/>
+<tli id="T1937"/>
+<tli id="T1938"/>
+<tli id="T1939"/>
+<tli id="T1940"/>
+<tli id="T1941"/>
+<tli id="T1942"/>
+<tli id="T1943"/>
+<tli id="T1944"/>
+<tli id="T1945"/>
+<tli id="T1946"/>
+<tli id="T1947"/>
+<tli id="T1948"/>
+<tli id="T1949"/>
+<tli id="T1950"/>
+<tli id="T1951"/>
+<tli id="T1952"/>
+<tli id="T1953"/>
+<tli id="T1954"/>
+<tli id="T1955"/>
+<tli id="T1956"/>
+<tli id="T1957"/>
+<tli id="T1958"/>
+<tli id="T1959"/>
+<tli id="T1960"/>
+<tli id="T1961"/>
+<tli id="T1962"/>
+<tli id="T1963"/>
+<tli id="T1964"/>
+<tli id="T1965"/>
+<tli id="T1966"/>
+<tli id="T1967"/>
+<tli id="T1968"/>
+<tli id="T1969"/>
+<tli id="T1970"/>
+<tli id="T1971"/>
+<tli id="T1972"/>
+<tli id="T1973"/>
+<tli id="T1974"/>
+<tli id="T1975"/>
+<tli id="T1976"/>
+<tli id="T1977"/>
+<tli id="T1978"/>
+<tli id="T1979"/>
+<tli id="T1980"/>
+<tli id="T1981"/>
+<tli id="T1982"/>
+<tli id="T1983"/>
+<tli id="T1984"/>
+<tli id="T1985"/>
+<tli id="T1986"/>
+<tli id="T1987"/>
+<tli id="T1988"/>
+<tli id="T1989"/>
+<tli id="T1990"/>
+<tli id="T1991"/>
+<tli id="T1992"/>
+<tli id="T1993"/>
+<tli id="T1994"/>
+<tli id="T1995"/>
+<tli id="T1996"/>
+<tli id="T1997"/>
+<tli id="T1998"/>
+<tli id="T1999"/>
+<tli id="T2000"/>
+<tli id="T2001"/>
+<tli id="T2002"/>
+<tli id="T2003"/>
+<tli id="T2004"/>
+<tli id="T2005"/>
+<tli id="T2006"/>
+<tli id="T2007"/>
+<tli id="T2008"/>
+<tli id="T2009"/>
+<tli id="T2010"/>
+<tli id="T2011"/>
+<tli id="T2012"/>
+<tli id="T2013"/>
+<tli id="T2014"/>
+<tli id="T2015"/>
+<tli id="T2016"/>
+<tli id="T2017"/>
+<tli id="T2018"/>
+<tli id="T2019"/>
+<tli id="T2020"/>
+<tli id="T2021"/>
+<tli id="T2022"/>
+<tli id="T2023"/>
+<tli id="T2024"/>
+<tli id="T2025"/>
+<tli id="T2026"/>
+<tli id="T2027"/>
+<tli id="T2028"/>
+<tli id="T2029"/>
+<tli id="T2030"/>
+<tli id="T2031"/>
+<tli id="T2032"/>
+<tli id="T2033"/>
+<tli id="T2034"/>
+<tli id="T2035"/>
+<tli id="T2036"/>
+<tli id="T2037"/>
+<tli id="T2038"/>
+<tli id="T2039"/>
+<tli id="T2040"/>
+<tli id="T2041"/>
+<tli id="T2042"/>
+<tli id="T2043"/>
+<tli id="T2044"/>
+<tli id="T2045"/>
+<tli id="T2046"/>
+<tli id="T2047"/>
+<tli id="T2048"/>
+<tli id="T2049"/>
+<tli id="T2050"/>
+<tli id="T2051"/>
+<tli id="T2052"/>
+<tli id="T2053"/>
+<tli id="T2054"/>
+<tli id="T2055"/>
+<tli id="T2056"/>
+<tli id="T2057"/>
+<tli id="T2058"/>
+<tli id="T2059"/>
+<tli id="T2060"/>
+<tli id="T2061"/>
+<tli id="T2062"/>
+<tli id="T2063"/>
+<tli id="T2064"/>
+<tli id="T2065"/>
+<tli id="T2066"/>
+<tli id="T2067"/>
+<tli id="T2068"/>
+<tli id="T2069"/>
+<tli id="T2070"/>
+<tli id="T2071"/>
+<tli id="T2072"/>
+<tli id="T2073"/>
+<tli id="T2074"/>
+<tli id="T2075"/>
+<tli id="T2076"/>
+<tli id="T2077"/>
+<tli id="T2078"/>
+<tli id="T2079"/>
+<tli id="T2080"/>
+<tli id="T2081"/>
+<tli id="T2082"/>
+<tli id="T2083"/>
+<tli id="T2084"/>
+<tli id="T2085"/>
+<tli id="T2086"/>
+<tli id="T2087"/>
+<tli id="T2088"/>
+<tli id="T2089"/>
+<tli id="T2090"/>
+<tli id="T2091"/>
+<tli id="T2092"/>
+<tli id="T2093"/>
+<tli id="T2094"/>
+<tli id="T2095"/>
+<tli id="T2096"/>
+<tli id="T2097"/>
+<tli id="T2098"/>
+<tli id="T2099"/>
+<tli id="T2100"/>
+<tli id="T2101"/>
+<tli id="T2102"/>
+<tli id="T2103"/>
+<tli id="T2104"/>
+<tli id="T2105"/>
+<tli id="T2106"/>
+<tli id="T2107"/>
+<tli id="T2108"/>
+<tli id="T2109"/>
+<tli id="T2110"/>
+<tli id="T2111"/>
+<tli id="T2112"/>
+<tli id="T2113"/>
+<tli id="T2114"/>
+<tli id="T2115"/>
+<tli id="T2116"/>
+<tli id="T2117"/>
+<tli id="T2118"/>
+<tli id="T2119"/>
+<tli id="T2120"/>
+<tli id="T2121"/>
+<tli id="T2122"/>
+<tli id="T2123"/>
+<tli id="T2124"/>
+<tli id="T2125"/>
+<tli id="T2126"/>
+<tli id="T2127"/>
+<tli id="T2128"/>
+<tli id="T2129"/>
+<tli id="T2130"/>
+<tli id="T2131"/>
+<tli id="T2132"/>
+<tli id="T2133"/>
+<tli id="T2134"/>
+<tli id="T2135"/>
+<tli id="T2136"/>
+<tli id="T2137"/>
+<tli id="T2138"/>
+<tli id="T2139"/>
+<tli id="T2140"/>
+<tli id="T2141"/>
+<tli id="T2142"/>
+<tli id="T2143"/>
+<tli id="T2144"/>
+<tli id="T2145"/>
+<tli id="T2146"/>
+<tli id="T2147"/>
+<tli id="T2148"/>
+<tli id="T2149"/>
+<tli id="T2150"/>
+<tli id="T2151"/>
+<tli id="T2152"/>
+<tli id="T2153"/>
+<tli id="T2154"/>
+<tli id="T2155"/>
+<tli id="T2156"/>
+<tli id="T2157"/>
+<tli id="T2158"/>
+<tli id="T2159"/>
+<tli id="T2160"/>
+<tli id="T2161"/>
+<tli id="T2162"/>
+<tli id="T2163"/>
+<tli id="T2164"/>
+<tli id="T2165"/>
+<tli id="T2166"/>
+<tli id="T2167"/>
+<tli id="T2168"/>
+<tli id="T2169"/>
+<tli id="T2170"/>
+<tli id="T2171"/>
+<tli id="T2172"/>
+<tli id="T2173"/>
+<tli id="T2174"/>
+<tli id="T2175"/>
+<tli id="T2176"/>
+<tli id="T2177"/>
+<tli id="T2178"/>
+<tli id="T2179"/>
+<tli id="T2180"/>
+<tli id="T2181"/>
+<tli id="T2182"/>
+<tli id="T2183"/>
+<tli id="T2184"/>
+<tli id="T2185"/>
+<tli id="T2186"/>
+<tli id="T2187"/>
+<tli id="T2188"/>
+<tli id="T2189"/>
+<tli id="T2190"/>
+<tli id="T2191"/>
+<tli id="T2192"/>
+<tli id="T2193"/>
+<tli id="T2194"/>
+<tli id="T2195"/>
+<tli id="T2196"/>
+<tli id="T2197"/>
+<tli id="T2198"/>
+<tli id="T2199"/>
+<tli id="T2200"/>
+<tli id="T2201"/>
+<tli id="T2202"/>
+<tli id="T2203"/>
+<tli id="T2204"/>
+<tli id="T2205"/>
+<tli id="T2206"/>
+<tli id="T2207"/>
+<tli id="T2208"/>
+<tli id="T2209"/>
+<tli id="T2210"/>
+<tli id="T2211"/>
+<tli id="T2212"/>
+<tli id="T2213"/>
+<tli id="T2214"/>
+<tli id="T2215"/>
+<tli id="T2216"/>
+<tli id="T2217"/>
+<tli id="T2218"/>
+<tli id="T2219"/>
+<tli id="T2220"/>
+<tli id="T2221"/>
+<tli id="T2222"/>
+<tli id="T2223"/>
+<tli id="T2224"/>
+<tli id="T2225"/>
+<tli id="T2226"/>
+<tli id="T2227"/>
+<tli id="T2228"/>
+<tli id="T2229"/>
+<tli id="T2230"/>
+<tli id="T2231"/>
+<tli id="T2232"/>
+<tli id="T2233"/>
+<tli id="T2234"/>
+<tli id="T2235"/>
+<tli id="T2236"/>
+<tli id="T2237"/>
+<tli id="T2238"/>
+<tli id="T2239"/>
+<tli id="T2240"/>
+<tli id="T2241"/>
+<tli id="T2242"/>
+<tli id="T2243"/>
+<tli id="T2244"/>
+<tli id="T2245"/>
+<tli id="T2246"/>
+<tli id="T2247"/>
+<tli id="T2248"/>
+<tli id="T2249"/>
+<tli id="T2250"/>
+<tli id="T2251"/>
+<tli id="T2252"/>
+<tli id="T2253"/>
+<tli id="T2254"/>
+<tli id="T2255"/>
+<tli id="T2256"/>
+<tli id="T2257"/>
+<tli id="T2258"/>
+<tli id="T2259"/>
+<tli id="T2260"/>
+<tli id="T2261"/>
+<tli id="T2262"/>
+<tli id="T2263"/>
+<tli id="T2264"/>
+<tli id="T2265"/>
+<tli id="T2266"/>
+<tli id="T2267"/>
+<tli id="T2268"/>
+<tli id="T2269"/>
+<tli id="T2270"/>
+<tli id="T2271"/>
+<tli id="T2272"/>
+<tli id="T2273"/>
+<tli id="T2274"/>
+<tli id="T2275"/>
+<tli id="T2276"/>
+<tli id="T2277"/>
+<tli id="T2278"/>
+<tli id="T2279"/>
+<tli id="T2280"/>
+<tli id="T2281"/>
+<tli id="T2282"/>
+<tli id="T2283"/>
+<tli id="T2284"/>
+<tli id="T2285"/>
+<tli id="T2286"/>
+<tli id="T2287"/>
+<tli id="T2288"/>
+<tli id="T2289"/>
+<tli id="T2290"/>
+<tli id="T2291"/>
+<tli id="T2292"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="txt" type="t" display-name="TXT"><event start="T0" end="T1">القول </event>
+<event start="T1" end="T2">في </event>
+<event start="T2" end="T3">السُّ</event>
+<event start="T3" end="T4">نة</event>
+<event start="T4" end="T5">السنة </event>
+<event start="T5" end="T6">أنواع </event>
+<event start="T6" end="T7">ثلاثة: </event>
+<event start="T7" end="T8">من </event>
+<event start="T8" end="T9">حيث </event>
+<event start="T9" end="T10">القول، </event>
+<event start="T10" end="T11">ومن </event>
+<event start="T11" end="T12">حيث </event>
+<event start="T12" end="T13">الفعل، </event>
+<event start="T13" end="T14">ومن </event>
+<event start="T14" end="T15">حيث </event>
+<event start="T15" end="T16">السكوت.</event>
+<event start="T16" end="T17">أما </event>
+<event start="T17" end="T18">من </event>
+<event start="T18" end="T19">حيث </event>
+<event start="T19" end="T20">القول</event>
+<event start="T20" end="T21">فهو </event>
+<event start="T21" end="T22">إخبار </event>
+<event start="T22" end="T23">الرسول - </event>
+<event start="T23" end="T24">صلى </event>
+<event start="T24" end="T25">الله </event>
+<event start="T25" end="T26">عليه </event>
+<event start="T26" end="T27">وسلم - </event>
+<event start="T27" end="T28">عن </event>
+<event start="T28" end="T29">الله </event>
+<event start="T29" end="T30">تعالى </event>
+<event start="T30" end="T31">أنه </event>
+<event start="T31" end="T32">كذا </event>
+<event start="T32" end="T33">وكذا، </event>
+<event start="T33" end="T34">بوحي </event>
+<event start="T34" end="T35">غير </event>
+<event start="T35" end="T36">متلو.</event>
+<event start="T36" end="T37">وهو </event>
+<event start="T37" end="T38">أنواع: </event>
+<event start="T38" end="T39">كل </event>
+<event start="T39" end="T40">أخبره </event>
+<event start="T40" end="T41">جبريل </event>
+<event start="T41" end="T42">عليه </event>
+<event start="T42" end="T43">السلام </event>
+<event start="T43" end="T44">بشيء، </event>
+<event start="T44" end="T45">لا </event>
+<event start="T45" end="T46">على </event>
+<event start="T46" end="T47">نظم </event>
+<event start="T47" end="T48">القرآن. </event>
+<event start="T48" end="T49">أو </event>
+<event start="T49" end="T50">أخبره </event>
+<event start="T50" end="T51">ملك </event>
+<event start="T51" end="T52">آخر. </event>
+<event start="T52" end="T53">أو </event>
+<event start="T53" end="T54">رآه </event>
+<event start="T54" end="T55">في </event>
+<event start="T55" end="T56">المنام. </event>
+<event start="T56" end="T57">أو </event>
+<event start="T57" end="T58">بطريق </event>
+<event start="T58" end="T59">الإلهام. </event>
+<event start="T59" end="T60">وكذا </event>
+<event start="T60" end="T61">إخباره </event>
+<event start="T61" end="T62">عن </event>
+<event start="T62" end="T63">الله </event>
+<event start="T63" end="T64">تعالى </event>
+<event start="T64" end="T65">أنه </event>
+<event start="T65" end="T66">يأمر </event>
+<event start="T66" end="T67">وينهي </event>
+<event start="T67" end="T68">بهذا </event>
+<event start="T68" end="T69">الطريق.</event>
+<event start="T69" end="T70">وكل </event>
+<event start="T70" end="T71">ذلك </event>
+<event start="T71" end="T72">حجة، </event>
+<event start="T72" end="T73">لأنه </event>
+<event start="T73" end="T74">ثبت </event>
+<event start="T74" end="T75">أنه </event>
+<event start="T75" end="T76">رسول </event>
+<event start="T76" end="T77">الله - </event>
+<event start="T77" end="T78">صلى </event>
+<event start="T78" end="T79">الله </event>
+<event start="T79" end="T80">عليه </event>
+<event start="T80" end="T81">وسلم -، </event>
+<event start="T81" end="T82">فيكون </event>
+<event start="T82" end="T83">خبره </event>
+<event start="T83" end="T84">صدقً</event>
+<event start="T84" end="T85">ا، </event>
+<event start="T85" end="T86">لكونه </event>
+<event start="T86" end="T87">كل </event>
+<event start="T87" end="T88">معصومً</event>
+<event start="T88" end="T89">ا </event>
+<event start="T89" end="T90">عن </event>
+<event start="T90" end="T91">الكذب </event>
+<event start="T91" end="T92">والغلط </event>
+<event start="T92" end="T93">والخطأ </event>
+<event start="T93" end="T94">في </event>
+<event start="T94" end="T95">تبليغ </event>
+<event start="T95" end="T96">الشرائع، </event>
+<event start="T96" end="T97">فيكون </event>
+<event start="T97" end="T98">ذلك </event>
+<event start="T98" end="T99">مثل </event>
+<event start="T99" end="T100">الكتاب، </event>
+<event start="T100" end="T101">ولكن </event>
+<event start="T101" end="T102">إنما </event>
+<event start="T102" end="T103">يبلغ </event>
+<event start="T103" end="T104">إلينا </event>
+<event start="T104" end="T105">سنته </event>
+<event start="T105" end="T106">بخبر </event>
+<event start="T106" end="T107">الرواة.</event>
+<event start="T107" end="T108">فيحتاج </event>
+<event start="T108" end="T109">إلى:</event>
+<event start="T109" end="T110">تفسير </event>
+<event start="T110" end="T111">الخبر </event>
+<event start="T111" end="T112">لغة،</event>
+<event start="T112" end="T113">وبيان </event>
+<event start="T113" end="T114">حده </event>
+<event start="T114" end="T115">عند </event>
+<event start="T115" end="T116">أهل </event>
+<event start="T116" end="T117">الأصول،</event>
+<event start="T117" end="T118">وإلى </event>
+<event start="T118" end="T119">صفة </event>
+<event start="T119" end="T120">الخبر،</event>
+<event start="T120" end="T121">وإلى </event>
+<event start="T121" end="T122">أقسام </event>
+<event start="T122" end="T123">الخبر.</event>
+<event start="T123" end="T124">أما </event>
+<event start="T124" end="T125">تفسير </event>
+<event start="T125" end="T126">الخبر </event>
+<event start="T126" end="T127">لغة:</event>
+<event start="T127" end="T128">فهو </event>
+<event start="T128" end="T129">اسم </event>
+<event start="T129" end="T130">لكلام </event>
+<event start="T130" end="T131">مخصوص، </event>
+<event start="T131" end="T132">بصيغة </event>
+<event start="T132" end="T133">مخصوصة، </event>
+<event start="T133" end="T134">يتعلق </event>
+<event start="T134" end="T135">به </event>
+<event start="T135" end="T136">العلم </event>
+<event start="T136" end="T137">بالمخبر </event>
+<event start="T137" end="T138">به - </event>
+<event start="T138" end="T139">بخلاف </event>
+<event start="T139" end="T140">الإشارة </event>
+<event start="T140" end="T141">والدلالة، </event>
+<event start="T141" end="T142">لأنه </event>
+<event start="T142" end="T143">ليس </event>
+<event start="T143" end="T144">بكلام، </event>
+<event start="T144" end="T145">وإن </event>
+<event start="T145" end="T146">كان </event>
+<event start="T146" end="T147">يحصل </event>
+<event start="T147" end="T148">به </event>
+<event start="T148" end="T149">العلم. </event>
+<event start="T149" end="T150">وبخلاف </event>
+<event start="T150" end="T151">الأمر </event>
+<event start="T151" end="T152">والنهي </event>
+<event start="T152" end="T153">والاستخبار، </event>
+<event start="T153" end="T154">لأنه </event>
+<event start="T154" end="T155">لم </event>
+<event start="T155" end="T156">يوجد </event>
+<event start="T156" end="T157">صيغة </event>
+<event start="T157" end="T158">الخبر.</event>
+<event start="T158" end="T159">وأما </event>
+<event start="T159" end="T160">حد </event>
+<event start="T160" end="T161">الخبر </event>
+<event start="T161" end="T162">عند </event>
+<event start="T162" end="T163">أهل </event>
+<event start="T163" end="T164">الأصول:</event>
+<event start="T164" end="T165">قال </event>
+<event start="T165" end="T166">بعضهم: </event>
+<event start="T166" end="T167">ما </event>
+<event start="T167" end="T168">يحتمل </event>
+<event start="T168" end="T169">الصدق </event>
+<event start="T169" end="T170">والكذب.</event>
+<event start="T170" end="T171">وقيل: </event>
+<event start="T171" end="T172">ما </event>
+<event start="T172" end="T173">يدخله </event>
+<event start="T173" end="T174">الصدق </event>
+<event start="T174" end="T175">والكذب.</event>
+<event start="T175" end="T176">وهذان </event>
+<event start="T176" end="T177">الحدان </event>
+<event start="T177" end="T178">فاسدان </event>
+<event start="T178" end="T179">لعدم </event>
+<event start="T179" end="T180">الاطراد: </event>
+<event start="T180" end="T181">فإن </event>
+<event start="T181" end="T182">خبر </event>
+<event start="T182" end="T183">الله </event>
+<event start="T183" end="T184">تعالى </event>
+<event start="T184" end="T185">وخبر </event>
+<event start="T185" end="T186">رسوله - </event>
+<event start="T186" end="T187">صلى </event>
+<event start="T187" end="T188">الله </event>
+<event start="T188" end="T189">عليه </event>
+<event start="T189" end="T190">وسلم - </event>
+<event start="T190" end="T191">وخبر </event>
+<event start="T191" end="T192">الأمة </event>
+<event start="T192" end="T193">بأسرهم </event>
+<event start="T193" end="T194">لا </event>
+<event start="T194" end="T195">يحتمل </event>
+<event start="T195" end="T196">الكذب </event>
+<event start="T196" end="T197">ولا </event>
+<event start="T197" end="T198">يدخله </event>
+<event start="T198" end="T199">الكذب، </event>
+<event start="T199" end="T200">وإنه </event>
+<event start="T200" end="T201">خبر </event>
+<event start="T201" end="T202">حقيقة. </event>
+<event start="T202" end="T203">وينتقص </event>
+<event start="T203" end="T204">الحد </event>
+<event start="T204" end="T205">أيضً</event>
+<event start="T205" end="T206">ا </event>
+<event start="T206" end="T207">بالكذب: </event>
+<event start="T207" end="T208">فإنه </event>
+<event start="T208" end="T209">خبر، </event>
+<event start="T209" end="T210">ولا </event>
+<event start="T210" end="T211">يحتمل </event>
+<event start="T211" end="T212">الكذب </event>
+<event start="T212" end="T213">ولا </event>
+<event start="T213" end="T214">يدخله. </event>
+<event start="T214" end="T215">وكذا </event>
+<event start="T215" end="T216">ينتقض </event>
+<event start="T216" end="T217">بالصدق </event>
+<event start="T217" end="T218">أيضً</event>
+<event start="T218" end="T219">ا.</event>
+<event start="T219" end="T220">وقال </event>
+<event start="T220" end="T221">بعضهم: </event>
+<event start="T221" end="T222">هو </event>
+<event start="T222" end="T223">كلام </event>
+<event start="T223" end="T224">تعرى </event>
+<event start="T224" end="T225">عن </event>
+<event start="T225" end="T226">كل </event>
+<event start="T226" end="T227">معنى </event>
+<event start="T227" end="T228">التكليف.</event>
+<event start="T228" end="T229">وهذا </event>
+<event start="T229" end="T230">حد </event>
+<event start="T230" end="T231">صحيح، </event>
+<event start="T231" end="T232">لما </event>
+<event start="T232" end="T233">ذكرنا </event>
+<event start="T233" end="T234">أن </event>
+<event start="T234" end="T235">الكلام </event>
+<event start="T235" end="T236">كله </event>
+<event start="T236" end="T237">تعريف </event>
+<event start="T237" end="T238">وتكليف </event>
+<event start="T238" end="T239">والتكليف </event>
+<event start="T239" end="T240">هو </event>
+<event start="T240" end="T241">الأمر </event>
+<event start="T241" end="T242">والنهي. </event>
+<event start="T242" end="T243">والتعريف </event>
+<event start="T243" end="T244">هو </event>
+<event start="T244" end="T245">الخبر </event>
+<event start="T245" end="T246">والاستخبار </event>
+<event start="T246" end="T247">والنداء </event>
+<event start="T247" end="T248">والتمني، </event>
+<event start="T248" end="T249">وفي </event>
+<event start="T249" end="T250">ذلك </event>
+<event start="T250" end="T251">كله </event>
+<event start="T251" end="T252">معنى </event>
+<event start="T252" end="T253">الخبر.</event>
+<event start="T253" end="T254">وقال </event>
+<event start="T254" end="T255">بعضهم: </event>
+<event start="T255" end="T256">حد </event>
+<event start="T256" end="T257">الخبر </event>
+<event start="T257" end="T258">كلام </event>
+<event start="T258" end="T259">يفيد </event>
+<event start="T259" end="T260">بنفسه </event>
+<event start="T260" end="T261">إضافة </event>
+<event start="T261" end="T262">مذكور </event>
+<event start="T262" end="T263">إلى </event>
+<event start="T263" end="T264">مذكور، </event>
+<event start="T264" end="T265">فإن </event>
+<event start="T265" end="T266">قولك: "</event>
+<event start="T266" end="T267">جاءني </event>
+<event start="T267" end="T268">زيد" </event>
+<event start="T268" end="T269">كلام </event>
+<event start="T269" end="T270">هو </event>
+<event start="T270" end="T271">إضافة </event>
+<event start="T271" end="T272">المجيء </event>
+<event start="T272" end="T273">إلى </event>
+<event start="T273" end="T274">زيد، </event>
+<event start="T274" end="T275">وهما </event>
+<event start="T275" end="T276">مذكوران. </event>
+<event start="T276" end="T277">ويقال: "</event>
+<event start="T277" end="T278">هذا </event>
+<event start="T278" end="T279">فعل </event>
+<event start="T279" end="T280">حسن </event>
+<event start="T280" end="T281">وهذا </event>
+<event start="T281" end="T282">فعل </event>
+<event start="T282" end="T283">قبيح" </event>
+<event start="T283" end="T284">وهو </event>
+<event start="T284" end="T285">إضافة </event>
+<event start="T285" end="T286">مذكور </event>
+<event start="T286" end="T287">إلى </event>
+<event start="T287" end="T288">مذكور. </event>
+<event start="T288" end="T289">ويقال: "</event>
+<event start="T289" end="T290">يوم </event>
+<event start="T290" end="T291">القيامة" </event>
+<event start="T291" end="T292">وهو </event>
+<event start="T292" end="T293">إضافة </event>
+<event start="T293" end="T294">اليوم </event>
+<event start="T294" end="T295">إلى </event>
+<event start="T295" end="T296">القيامة. </event>
+<event start="T296" end="T297">وإنما </event>
+<event start="T297" end="T298">قلنا "</event>
+<event start="T298" end="T299">مذكور" </event>
+<event start="T299" end="T300">ولم </event>
+<event start="T300" end="T301">نقل "</event>
+<event start="T301" end="T302">إضافة </event>
+<event start="T302" end="T303">شيء </event>
+<event start="T303" end="T304">إلى </event>
+<event start="T304" end="T305">شيء"، </event>
+<event start="T305" end="T306">لأن </event>
+<event start="T306" end="T307">المعدوم </event>
+<event start="T307" end="T308">ليس </event>
+<event start="T308" end="T309">بشيء </event>
+<event start="T309" end="T310">فيصح </event>
+<event start="T310" end="T311">الخبر </event>
+<event start="T311" end="T312">عنه، </event>
+<event start="T312" end="T313">كما </event>
+<event start="T313" end="T314">ذكرنا </event>
+<event start="T314" end="T315">في "</event>
+<event start="T315" end="T316">يوم </event>
+<event start="T316" end="T317">القيامة"- </event>
+<event start="T317" end="T318">قال </event>
+<event start="T318" end="T319">الله </event>
+<event start="T319" end="T320">تعالى: "</event>
+<event start="T320" end="T321">وكل </event>
+<event start="T321" end="T322">أمر </event>
+<event start="T322" end="T323">الساعة </event>
+<event start="T323" end="T324">إلا </event>
+<event start="T324" end="T325">كلمح </event>
+<event start="T325" end="T326">البصر </event>
+<event start="T326" end="T327">أو </event>
+<event start="T327" end="T328">هو </event>
+<event start="T328" end="T329">أقرب" </event>
+<event start="T329" end="T330">ولا </event>
+<event start="T330" end="T331">يلزم </event>
+<event start="T331" end="T332">الأمر </event>
+<event start="T332" end="T333">والنهي، </event>
+<event start="T333" end="T334">فإنه </event>
+<event start="T334" end="T335">كلام </event>
+<event start="T335" end="T336">يفيد </event>
+<event start="T336" end="T337">إضافة </event>
+<event start="T337" end="T338">مذكور </event>
+<event start="T338" end="T339">إلى </event>
+<event start="T339" end="T340">مذكور، </event>
+<event start="T340" end="T341">وهو </event>
+<event start="T341" end="T342">كون </event>
+<event start="T342" end="T343">المأمور </event>
+<event start="T343" end="T344">به </event>
+<event start="T344" end="T345">حسنً</event>
+<event start="T345" end="T346">ا </event>
+<event start="T346" end="T347">وواجبً</event>
+<event start="T347" end="T348">ا </event>
+<event start="T348" end="T349">ومندوبً</event>
+<event start="T349" end="T350">ا </event>
+<event start="T350" end="T351">إليه، </event>
+<event start="T351" end="T352">وليسا </event>
+<event start="T352" end="T353">من </event>
+<event start="T353" end="T354">باب </event>
+<event start="T354" end="T355">الخبر، </event>
+<event start="T355" end="T356">لأنا </event>
+<event start="T356" end="T357">قلنا: </event>
+<event start="T357" end="T358">كلام </event>
+<event start="T358" end="T359">يفيد </event>
+<event start="T359" end="T360">بنفسه </event>
+<event start="T360" end="T361">إضافة </event>
+<event start="T361" end="T362">مذكور </event>
+<event start="T362" end="T363">إلى </event>
+<event start="T363" end="T364">مذكور، </event>
+<event start="T364" end="T365">وثمة </event>
+<event start="T365" end="T366">قوله "</event>
+<event start="T366" end="T367">افعل": </event>
+<event start="T367" end="T368">كلام </event>
+<event start="T368" end="T369">لا </event>
+<event start="T369" end="T370">يفيد </event>
+<event start="T370" end="T371">بنفسه </event>
+<event start="T371" end="T372">كون </event>
+<event start="T372" end="T373">المأمور </event>
+<event start="T373" end="T374">به </event>
+<event start="T374" end="T375">حسنً</event>
+<event start="T375" end="T376">ا </event>
+<event start="T376" end="T377">وواجبً</event>
+<event start="T377" end="T378">ا، </event>
+<event start="T378" end="T379">وإنما </event>
+<event start="T379" end="T380">يعرف </event>
+<event start="T380" end="T381">ذلك </event>
+<event start="T381" end="T382">بمقتضى </event>
+<event start="T382" end="T383">حكمة </event>
+<event start="T383" end="T384">الآمر - </event>
+<event start="T384" end="T385">على </event>
+<event start="T385" end="T386">ما </event>
+<event start="T386" end="T387">ذكرنا.</event>
+<event start="T387" end="T388">وأما </event>
+<event start="T388" end="T389">بيان </event>
+<event start="T389" end="T390">صفة </event>
+<event start="T390" end="T391">الخبر - </event>
+<event start="T391" end="T392">فنقول:</event>
+<event start="T392" end="T393">الخبر </event>
+<event start="T393" end="T394">في </event>
+<event start="T394" end="T395">حق </event>
+<event start="T395" end="T396">الوصف </event>
+<event start="T396" end="T397">ينقسم </event>
+<event start="T397" end="T398">إلى </event>
+<event start="T398" end="T399">قسمين: </event>
+<event start="T399" end="T400">صدق، </event>
+<event start="T400" end="T401">وكذب.</event>
+<event start="T401" end="T402">فالصدق </event>
+<event start="T402" end="T403">هو </event>
+<event start="T403" end="T404">التكلم </event>
+<event start="T404" end="T405">عن </event>
+<event start="T405" end="T406">المخبر </event>
+<event start="T406" end="T407">على </event>
+<event start="T407" end="T408">ما </event>
+<event start="T408" end="T409">هو </event>
+<event start="T409" end="T410">به.</event>
+<event start="T410" end="T411">والكذب </event>
+<event start="T411" end="T412">هو </event>
+<event start="T412" end="T413">التكلم </event>
+<event start="T413" end="T414">عن </event>
+<event start="T414" end="T415">المخبر </event>
+<event start="T415" end="T416">لا </event>
+<event start="T416" end="T417">على </event>
+<event start="T417" end="T418">ما </event>
+<event start="T418" end="T419">هو </event>
+<event start="T419" end="T420">به.</event>
+<event start="T420" end="T421">وقال </event>
+<event start="T421" end="T422">الجاحظ </event>
+<event start="T422" end="T423">من </event>
+<event start="T423" end="T424">المعتزلة: </event>
+<event start="T424" end="T425">إن </event>
+<event start="T425" end="T426">الخبر </event>
+<event start="T426" end="T427">قد </event>
+<event start="T427" end="T428">يكون </event>
+<event start="T428" end="T429">لا </event>
+<event start="T429" end="T430">صدقً</event>
+<event start="T430" end="T431">ا </event>
+<event start="T431" end="T432">ولا </event>
+<event start="T432" end="T433">كذبً</event>
+<event start="T433" end="T434">ا. </event>
+<event start="T434" end="T435">وهو </event>
+<event start="T435" end="T436">فاسد - </event>
+<event start="T436" end="T437">عرف </event>
+<event start="T437" end="T438">في </event>
+<event start="T438" end="T439">مساؤل </event>
+<event start="T439" end="T440">الكلام </event>
+<event start="T440" end="T441">وفي </event>
+<event start="T441" end="T442">الشرح.</event>
+<event start="T442" end="T443">وأما </event>
+<event start="T443" end="T444">أقسام </event>
+<event start="T444" end="T445">الخبر:</event>
+<event start="T445" end="T446">فهو </event>
+<event start="T446" end="T447">أقسام </event>
+<event start="T447" end="T448">ثلاثة: </event>
+<event start="T448" end="T449">الخبر </event>
+<event start="T449" end="T450">المتواتر، </event>
+<event start="T450" end="T451">والخبر </event>
+<event start="T451" end="T452">المشهور، </event>
+<event start="T452" end="T453">وخبر </event>
+<event start="T453" end="T454">الواحد. </event>
+<event start="T454" end="T455">فنذكر:</event>
+<event start="T455" end="T456">تفسيرها </event>
+<event start="T456" end="T457">لغة، </event>
+<event start="T457" end="T458">وفي </event>
+<event start="T458" end="T459">عرف </event>
+<event start="T459" end="T460">الفقهاء،</event>
+<event start="T460" end="T461">وشرائطها، </event>
+<event start="T461" end="T462">وأحكامها.</event>
+<event start="T462" end="T463">أما </event>
+<event start="T463" end="T464">الخبر </event>
+<event start="T464" end="T465">المتواتر - </event>
+<event start="T465" end="T466">فنقول:</event>
+<event start="T466" end="T467">في </event>
+<event start="T467" end="T468">اللغة: </event>
+<event start="T468" end="T469">المتواتر </event>
+<event start="T469" end="T470">مشتق </event>
+<event start="T470" end="T471">من </event>
+<event start="T471" end="T472">التواتر </event>
+<event start="T472" end="T473">والاتصال - </event>
+<event start="T473" end="T474">يقال: "</event>
+<event start="T474" end="T475">تواترت </event>
+<event start="T475" end="T476">كتب </event>
+<event start="T476" end="T477">فلان </event>
+<event start="T477" end="T478">إلي" </event>
+<event start="T478" end="T479">أي </event>
+<event start="T479" end="T480">اتصلت </event>
+<event start="T480" end="T481">وتتابعت.</event>
+<event start="T481" end="T482">وأما </event>
+<event start="T482" end="T483">حده </event>
+<event start="T483" end="T484">عند </event>
+<event start="T484" end="T485">الفقهاء: </event>
+<event start="T485" end="T486">فهو </event>
+<event start="T486" end="T487">مأخوذ </event>
+<event start="T487" end="T488">من </event>
+<event start="T488" end="T489">معناه </event>
+<event start="T489" end="T490">لغة، </event>
+<event start="T490" end="T491">وهو </event>
+<event start="T491" end="T492">الخبر </event>
+<event start="T492" end="T493">المتصل </event>
+<event start="T493" end="T494">بنا </event>
+<event start="T494" end="T495">عن </event>
+<event start="T495" end="T496">رسول </event>
+<event start="T496" end="T497">الله - </event>
+<event start="T497" end="T498">صلى </event>
+<event start="T498" end="T499">الله </event>
+<event start="T499" end="T500">عليه </event>
+<event start="T500" end="T501">وسلم - </event>
+<event start="T501" end="T502">قطعً</event>
+<event start="T502" end="T503">ا </event>
+<event start="T503" end="T504">ويقينً</event>
+<event start="T504" end="T505">ا، </event>
+<event start="T505" end="T506">بحيث </event>
+<event start="T506" end="T507">لم </event>
+<event start="T507" end="T508">يتوهم </event>
+<event start="T508" end="T509">فيه </event>
+<event start="T509" end="T510">شبهة </event>
+<event start="T510" end="T511">الانقطاع.</event>
+<event start="T511" end="T512">وأما </event>
+<event start="T512" end="T513">شرط </event>
+<event start="T513" end="T514">المتواتر </event>
+<event start="T514" end="T515">فشيئان:</event>
+<event start="T515" end="T516">أحدهما - </event>
+<event start="T516" end="T517">أن </event>
+<event start="T517" end="T518">يروي </event>
+<event start="T518" end="T519">قوم </event>
+<event start="T519" end="T520">عن </event>
+<event start="T520" end="T521">قوم </event>
+<event start="T521" end="T522">لا </event>
+<event start="T522" end="T523">يتصور </event>
+<event start="T523" end="T524">تواطؤهم </event>
+<event start="T524" end="T525">على </event>
+<event start="T525" end="T526">الكذب </event>
+<event start="T526" end="T527">عادة، </event>
+<event start="T527" end="T528">لكثرتهم </event>
+<event start="T528" end="T529">ابتداء </event>
+<event start="T529" end="T530">وانتهاء </event>
+<event start="T530" end="T531">وفيما </event>
+<event start="T531" end="T532">بينهما، </event>
+<event start="T532" end="T533">بأن </event>
+<event start="T533" end="T534">يكون </event>
+<event start="T534" end="T535">أوله </event>
+<event start="T535" end="T536">كآخره </event>
+<event start="T536" end="T537">وآخره </event>
+<event start="T537" end="T538">كأوله </event>
+<event start="T538" end="T539">وأوسطه </event>
+<event start="T539" end="T540">كطرفيه.</event>
+<event start="T540" end="T541">والثاني - </event>
+<event start="T541" end="T542">أن </event>
+<event start="T542" end="T543">يكون </event>
+<event start="T543" end="T544">المخبر </event>
+<event start="T544" end="T545">به </event>
+<event start="T545" end="T546">أمرً</event>
+<event start="T546" end="T547">ا </event>
+<event start="T547" end="T548">محسوسً</event>
+<event start="T548" end="T549">ا: </event>
+<event start="T549" end="T550">إما </event>
+<event start="T550" end="T551">حس </event>
+<event start="T551" end="T552">البصر </event>
+<event start="T552" end="T553">أو </event>
+<event start="T553" end="T554">حس </event>
+<event start="T554" end="T555">السمع. </event>
+<event start="T555" end="T556">أما </event>
+<event start="T556" end="T557">إذا </event>
+<event start="T557" end="T558">كان </event>
+<event start="T558" end="T559">أمرً</event>
+<event start="T559" end="T560">ا </event>
+<event start="T560" end="T561">معقولا </event>
+<event start="T561" end="T562">أو </event>
+<event start="T562" end="T563">مظنونً</event>
+<event start="T563" end="T564">ا، </event>
+<event start="T564" end="T565">فإن </event>
+<event start="T565" end="T566">التواتر </event>
+<event start="T566" end="T567">فيه </event>
+<event start="T567" end="T568">لا </event>
+<event start="T568" end="T569">يوجب </event>
+<event start="T569" end="T570">العلم </event>
+<event start="T570" end="T571">يقينً</event>
+<event start="T571" end="T572">ا، </event>
+<event start="T572" end="T573">فإن </event>
+<event start="T573" end="T574">الكفرة </event>
+<event start="T574" end="T575">قالوا </event>
+<event start="T575" end="T576">لي </event>
+<event start="T576" end="T577">طريق </event>
+<event start="T577" end="T578">التواتر: </event>
+<event start="T578" end="T579">إن </event>
+<event start="T579" end="T580">الله </event>
+<event start="T580" end="T581">تعالى </event>
+<event start="T581" end="T582">ثالث </event>
+<event start="T582" end="T583">ثلاثة، </event>
+<event start="T583" end="T584">وإن </event>
+<event start="T584" end="T585">له </event>
+<event start="T585" end="T586">شريكً</event>
+<event start="T586" end="T587">ا، </event>
+<event start="T587" end="T588">وإنه </event>
+<event start="T588" end="T589">كذب </event>
+<event start="T589" end="T590">محض.</event>
+<event start="T590" end="T591">وأما </event>
+<event start="T591" end="T592">حكم </event>
+<event start="T592" end="T593">الخبر </event>
+<event start="T593" end="T594">المتواتر:</event>
+<event start="T594" end="T595">مسألة - </event>
+<event start="T595" end="T596">قال </event>
+<event start="T596" end="T597">عامة </event>
+<event start="T597" end="T598">الفقهاء </event>
+<event start="T598" end="T599">والمتكلمين: </event>
+<event start="T599" end="T600">إنه </event>
+<event start="T600" end="T601">يوجب </event>
+<event start="T601" end="T602">العلم </event>
+<event start="T602" end="T603">قطعً</event>
+<event start="T603" end="T604">ا </event>
+<event start="T604" end="T605">بنفسه، </event>
+<event start="T605" end="T606">من </event>
+<event start="T606" end="T607">غير </event>
+<event start="T607" end="T608">قرينة.</event>
+<event start="T608" end="T609">وقال </event>
+<event start="T609" end="T610">النظام </event>
+<event start="T610" end="T611">من </event>
+<event start="T611" end="T612">المعتزلة: </event>
+<event start="T612" end="T613">إنه </event>
+<event start="T613" end="T614">لا </event>
+<event start="T614" end="T615">يوجب </event>
+<event start="T615" end="T616">العلم </event>
+<event start="T616" end="T617">بنفسه </event>
+<event start="T617" end="T618">ولكن </event>
+<event start="T618" end="T619">بقرينة. </event>
+<event start="T619" end="T620">وكذا </event>
+<event start="T620" end="T621">قال </event>
+<event start="T621" end="T622">في </event>
+<event start="T622" end="T623">خبر </event>
+<event start="T623" end="T624">الواحد: </event>
+<event start="T624" end="T625">إنه </event>
+<event start="T625" end="T626">قد </event>
+<event start="T626" end="T627">يوجب </event>
+<event start="T627" end="T628">العلم </event>
+<event start="T628" end="T629">قطعً</event>
+<event start="T629" end="T630">ا </event>
+<event start="T630" end="T631">بقرينة، </event>
+<event start="T631" end="T632">كواحد </event>
+<event start="T632" end="T633">أخبر </event>
+<event start="T633" end="T634">أن </event>
+<event start="T634" end="T635">فلانً</event>
+<event start="T635" end="T636">ا </event>
+<event start="T636" end="T637">مات </event>
+<event start="T637" end="T638">وازدحم </event>
+<event start="T638" end="T639">الناس </event>
+<event start="T639" end="T640">على </event>
+<event start="T640" end="T641">بابه </event>
+<event start="T641" end="T642">ويسمع </event>
+<event start="T642" end="T643">صوت </event>
+<event start="T643" end="T644">البكاء </event>
+<event start="T644" end="T645">ويحضر </event>
+<event start="T645" end="T646">الجنازة: </event>
+<event start="T646" end="T647">فإن </event>
+<event start="T647" end="T648">خبره </event>
+<event start="T648" end="T649">يوجب </event>
+<event start="T649" end="T650">العلم </event>
+<event start="T650" end="T651">قطعً</event>
+<event start="T651" end="T652">ا </event>
+<event start="T652" end="T653">بهذه </event>
+<event start="T653" end="T654">القرائن، </event>
+<event start="T654" end="T655">وإن </event>
+<event start="T655" end="T656">كان </event>
+<event start="T656" end="T657">خبر </event>
+<event start="T657" end="T658">واحد.</event>
+<event start="T658" end="T659">ثم </event>
+<event start="T659" end="T660">اختلف </event>
+<event start="T660" end="T661">القائلون </event>
+<event start="T661" end="T662">أبـ </event>
+<event start="T662" end="T663">ن </event>
+<event start="T663" end="T664">المتواتر </event>
+<event start="T664" end="T665">يوجب </event>
+<event start="T665" end="T666">العلم </event>
+<event start="T666" end="T667">قطعً</event>
+<event start="T667" end="T668">ا، </event>
+<event start="T668" end="T669">فيما </event>
+<event start="T669" end="T670">بينهم: </event>
+<event start="T670" end="T671">قال </event>
+<event start="T671" end="T672">عامتهم: </event>
+<event start="T672" end="T673">بأنه </event>
+<event start="T673" end="T674">يوجب </event>
+<event start="T674" end="T675">علمً</event>
+<event start="T675" end="T676">ا </event>
+<event start="T676" end="T677">ضروريً</event>
+<event start="T677" end="T678">ا.</event>
+<event start="T678" end="T679">وقال </event>
+<event start="T679" end="T680">الكعبي </event>
+<event start="T680" end="T681">بأنه </event>
+<event start="T681" end="T682">يوجب </event>
+<event start="T682" end="T683">علمً</event>
+<event start="T683" end="T684">ا </event>
+<event start="T684" end="T685">استدلاليً</event>
+<event start="T685" end="T686">ا. </event>
+<event start="T686" end="T687">وهو </event>
+<event start="T687" end="T688">قول </event>
+<event start="T688" end="T689">بعض </event>
+<event start="T689" end="T690">المتأخرين </event>
+<event start="T690" end="T691">من </event>
+<event start="T691" end="T692">المعتزلة.</event>
+<event start="T692" end="T693">وجه </event>
+<event start="T693" end="T694">قول </event>
+<event start="T694" end="T695">النظام:</event>
+<event start="T695" end="T696">إن </event>
+<event start="T696" end="T697">خبر </event>
+<event start="T697" end="T698">اليهود </event>
+<event start="T698" end="T699">نقل </event>
+<event start="T699" end="T700">بطريق </event>
+<event start="T700" end="T701">التواتر، </event>
+<event start="T701" end="T702">على </event>
+<event start="T702" end="T703">أن </event>
+<event start="T703" end="T704">عيسى </event>
+<event start="T704" end="T705">قتل </event>
+<event start="T705" end="T706">صلبً</event>
+<event start="T706" end="T707">ا، </event>
+<event start="T707" end="T708">وخبر </event>
+<event start="T708" end="T709">المجوس </event>
+<event start="T709" end="T710">نقل </event>
+<event start="T710" end="T711">بطريق </event>
+<event start="T711" end="T712">التواتر </event>
+<event start="T712" end="T713">أن </event>
+<event start="T713" end="T714">زرادشت </event>
+<event start="T714" end="T715">أدخل </event>
+<event start="T715" end="T716">قوائم </event>
+<event start="T716" end="T717">فرسه </event>
+<event start="T717" end="T718">في </event>
+<event start="T718" end="T719">بطنه </event>
+<event start="T719" end="T720">وبقي </event>
+<event start="T720" end="T721">معلقً</event>
+<event start="T721" end="T722">ا </event>
+<event start="T722" end="T723">في </event>
+<event start="T723" end="T724">الهواء. </event>
+<event start="T724" end="T725">وإنه </event>
+<event start="T725" end="T726">لا </event>
+<event start="T726" end="T727">يوجب </event>
+<event start="T727" end="T728">العلم </event>
+<event start="T728" end="T729">وثبت </event>
+<event start="T729" end="T730">كذبه </event>
+<event start="T730" end="T731">بدليل </event>
+<event start="T731" end="T732">قطعي.</event>
+<event start="T732" end="T733">- </event>
+<event start="T733" end="T734">وأما </event>
+<event start="T734" end="T735">المعقول: </event>
+<event start="T735" end="T736">وهو </event>
+<event start="T736" end="T737">أن </event>
+<event start="T737" end="T738">الخبر </event>
+<event start="T738" end="T739">المتواتر </event>
+<event start="T739" end="T740">ليس </event>
+<event start="T740" end="T741">إلا </event>
+<event start="T741" end="T742">أخبار </event>
+<event start="T742" end="T743">آحاد </event>
+<event start="T743" end="T744">اجتمعت، </event>
+<event start="T744" end="T745">وخبر </event>
+<event start="T745" end="T746">كل </event>
+<event start="T746" end="T747">واحد </event>
+<event start="T747" end="T748">بانفراده </event>
+<event start="T748" end="T749">محتمل </event>
+<event start="T749" end="T750">في </event>
+<event start="T750" end="T751">نفسه، </event>
+<event start="T751" end="T752">ولا </event>
+<event start="T752" end="T753">يوجب </event>
+<event start="T753" end="T754">العلم، </event>
+<event start="T754" end="T755">فعند </event>
+<event start="T755" end="T756">الاجتماع </event>
+<event start="T756" end="T757">لا </event>
+<event start="T757" end="T758">يزول </event>
+<event start="T758" end="T759">الاحتمال </event>
+<event start="T759" end="T760">على </event>
+<event start="T760" end="T761">ما </event>
+<event start="T761" end="T762">نذكر </event>
+<event start="T762" end="T763">تقريره </event>
+<event start="T763" end="T764">في </event>
+<event start="T764" end="T765">فصل </event>
+<event start="T765" end="T766">الإجماع.</event>
+<event start="T766" end="T767">وجه </event>
+<event start="T767" end="T768">قول </event>
+<event start="T768" end="T769">العامة:</event>
+<event start="T769" end="T770">هو </event>
+<event start="T770" end="T771">أن </event>
+<event start="T771" end="T772">العلم </event>
+<event start="T772" end="T773">بوجود </event>
+<event start="T773" end="T774">البلدان </event>
+<event start="T774" end="T775">النائية </event>
+<event start="T775" end="T776">والملوك </event>
+<event start="T776" end="T777">الماضية </event>
+<event start="T777" end="T778">ثابت </event>
+<event start="T778" end="T779">بطريق </event>
+<event start="T779" end="T780">التواتر </event>
+<event start="T780" end="T781">من </event>
+<event start="T781" end="T782">غي </event>
+<event start="T782" end="T783">عيان </event>
+<event start="T783" end="T784">ومشاهدة، </event>
+<event start="T784" end="T785">كالعلم </event>
+<event start="T785" end="T786">بوجود </event>
+<event start="T786" end="T787">مكة </event>
+<event start="T787" end="T788">وبغداد،</event>
+<event start="T788" end="T789">والعلم </event>
+<event start="T789" end="T790">بوجود </event>
+<event start="T790" end="T791">هارون </event>
+<event start="T791" end="T792">الرشيد </event>
+<event start="T792" end="T793">ومحمود </event>
+<event start="T793" end="T794">بن </event>
+<event start="T794" end="T795">سبكتكين </event>
+<event start="T795" end="T796">ونحو </event>
+<event start="T796" end="T797">ذلك، </event>
+<event start="T797" end="T798">على </event>
+<event start="T798" end="T799">وجه </event>
+<event start="T799" end="T800">لو </event>
+<event start="T800" end="T801">أراد </event>
+<event start="T801" end="T802">أحد </event>
+<event start="T802" end="T803">أن </event>
+<event start="T803" end="T804">يشكك </event>
+<event start="T804" end="T805">نفسه </event>
+<event start="T805" end="T806">في </event>
+<event start="T806" end="T807">ذلك </event>
+<event start="T807" end="T808">لا </event>
+<event start="T808" end="T809">يتشكك. </event>
+<event start="T809" end="T810">وكذا </event>
+<event start="T810" end="T811">العلم </event>
+<event start="T811" end="T812">للأولاد </event>
+<event start="T812" end="T813">بالآباء </event>
+<event start="T813" end="T814">والأمهات </event>
+<event start="T814" end="T815">ثابت </event>
+<event start="T815" end="T816">قطعً</event>
+<event start="T816" end="T817">ا، </event>
+<event start="T817" end="T818">بالخبر </event>
+<event start="T818" end="T819">المتواتر، </event>
+<event start="T819" end="T820">لا </event>
+<event start="T820" end="T821">طريق </event>
+<event start="T821" end="T822">لهم </event>
+<event start="T822" end="T823">سواه.</event>
+<event start="T823" end="T824">- </event>
+<event start="T824" end="T825">ونوع </event>
+<event start="T825" end="T826">من </event>
+<event start="T826" end="T827">العقول </event>
+<event start="T827" end="T828">يدل </event>
+<event start="T828" end="T829">عليه، </event>
+<event start="T829" end="T830">وهو </event>
+<event start="T830" end="T831">أن </event>
+<event start="T831" end="T832">الخبر </event>
+<event start="T832" end="T833">المتواتر </event>
+<event start="T833" end="T834">إما </event>
+<event start="T834" end="T835">أن </event>
+<event start="T835" end="T836">يكون </event>
+<event start="T836" end="T837">صدقً</event>
+<event start="T837" end="T838">ا </event>
+<event start="T838" end="T839">أو </event>
+<event start="T839" end="T840">كذبً</event>
+<event start="T840" end="T841">ا:</event>
+<event start="T841" end="T842">• </event>
+<event start="T842" end="T843">فإن </event>
+<event start="T843" end="T844">كان </event>
+<event start="T844" end="T845">صدقً</event>
+<event start="T845" end="T846">ا، </event>
+<event start="T846" end="T847">فهو </event>
+<event start="T847" end="T848">ما </event>
+<event start="T848" end="T849">قلنا.</event>
+<event start="T849" end="T850">• </event>
+<event start="T850" end="T851">وإن </event>
+<event start="T851" end="T852">كان </event>
+<event start="T852" end="T853">كذبً</event>
+<event start="T853" end="T854">ا، </event>
+<event start="T854" end="T855">فهو </event>
+<event start="T855" end="T856">محال:</event>
+<event start="T856" end="T857">فيجب </event>
+<event start="T857" end="T858">القول </event>
+<event start="T858" end="T859">بالصدق </event>
+<event start="T859" end="T860">ضرورة، </event>
+<event start="T860" end="T861">إذ </event>
+<event start="T861" end="T862">لا </event>
+<event start="T862" end="T863">واسطة </event>
+<event start="T863" end="T864">بين </event>
+<event start="T864" end="T865">الصدق </event>
+<event start="T865" end="T866">والكذب، </event>
+<event start="T866" end="T867">فإذا </event>
+<event start="T867" end="T868">انتفى </event>
+<event start="T868" end="T869">الكذب، </event>
+<event start="T869" end="T870">يجب </event>
+<event start="T870" end="T871">الصدق </event>
+<event start="T871" end="T872">ضرورة.</event>
+<event start="T872" end="T873">وبيان </event>
+<event start="T873" end="T874">ذلك </event>
+<event start="T874" end="T875">أنه </event>
+<event start="T875" end="T876">لا </event>
+<event start="T876" end="T877">يخلو: </event>
+<event start="T877" end="T878">إما </event>
+<event start="T878" end="T879">أن </event>
+<event start="T879" end="T880">يقع </event>
+<event start="T880" end="T881">الكذب </event>
+<event start="T881" end="T882">في </event>
+<event start="T882" end="T883">الخبر </event>
+<event start="T883" end="T884">المتواتر </event>
+<event start="T884" end="T885">اتفاقً</event>
+<event start="T885" end="T886">ا، </event>
+<event start="T886" end="T887">أو </event>
+<event start="T887" end="T888">للتدين، </event>
+<event start="T888" end="T889">أو </event>
+<event start="T889" end="T890">لداع </event>
+<event start="T890" end="T891">دعاهم </event>
+<event start="T891" end="T892">إليه، </event>
+<event start="T892" end="T893">أو </event>
+<event start="T893" end="T894">لوجود </event>
+<event start="T894" end="T895">المواضعة </event>
+<event start="T895" end="T896">منهم </event>
+<event start="T896" end="T897">على </event>
+<event start="T897" end="T898">ذلك.</event>
+<event start="T898" end="T899">• </event>
+<event start="T899" end="T900">والأول </event>
+<event start="T900" end="T901">فاسد: </event>
+<event start="T901" end="T902">فإن </event>
+<event start="T902" end="T903">وجود </event>
+<event start="T903" end="T904">الكذب </event>
+<event start="T904" end="T905">اتفاقً</event>
+<event start="T905" end="T906">ا </event>
+<event start="T906" end="T907">من </event>
+<event start="T907" end="T908">جماعة </event>
+<event start="T908" end="T909">خرجوا </event>
+<event start="T909" end="T910">عن </event>
+<event start="T910" end="T911">حد </event>
+<event start="T911" end="T912">الإحصاء </event>
+<event start="T912" end="T913">لا </event>
+<event start="T913" end="T914">يتصور </event>
+<event start="T914" end="T915">عادة، </event>
+<event start="T915" end="T916">كما </event>
+<event start="T916" end="T917">لا </event>
+<event start="T917" end="T918">يتصور </event>
+<event start="T918" end="T919">أن </event>
+<event start="T919" end="T920">يجتمعوا </event>
+<event start="T920" end="T921">على </event>
+<event start="T921" end="T922">مأكل </event>
+<event start="T922" end="T923">واحد </event>
+<event start="T923" end="T924">ومشرب </event>
+<event start="T924" end="T925">واحد </event>
+<event start="T925" end="T926">في </event>
+<event start="T926" end="T927">زمان </event>
+<event start="T927" end="T928">واحد </event>
+<event start="T928" end="T929">اتفاقً</event>
+<event start="T929" end="T930">ا.</event>
+<event start="T930" end="T931">• </event>
+<event start="T931" end="T932">والثاني </event>
+<event start="T932" end="T933">فاسد </event>
+<event start="T933" end="T934">أيضً</event>
+<event start="T934" end="T935">ا: </event>
+<event start="T935" end="T936">لأن </event>
+<event start="T936" end="T937">اجتماع </event>
+<event start="T937" end="T938">مثل </event>
+<event start="T938" end="T939">هذه </event>
+<event start="T939" end="T940">الجماعة </event>
+<event start="T940" end="T941">على </event>
+<event start="T941" end="T942">الكذب </event>
+<event start="T942" end="T943">تدينً</event>
+<event start="T943" end="T944">ا </event>
+<event start="T944" end="T945">مع </event>
+<event start="T945" end="T946">كون </event>
+<event start="T946" end="T947">العقل </event>
+<event start="T947" end="T948">صارفً</event>
+<event start="T948" end="T949">ا </event>
+<event start="T949" end="T950">عنه، </event>
+<event start="T950" end="T951">وداعيً</event>
+<event start="T951" end="T952">ا </event>
+<event start="T952" end="T953">إلى </event>
+<event start="T953" end="T954">الصدق، </event>
+<event start="T954" end="T955">وانعدام </event>
+<event start="T955" end="T956">دعوة </event>
+<event start="T956" end="T957">الطبع</event>
+<event start="T957" end="T958">والهوى </event>
+<event start="T958" end="T959">إليه، </event>
+<event start="T959" end="T960">لعدم </event>
+<event start="T960" end="T961">اللذة </event>
+<event start="T961" end="T962">والراحة </event>
+<event start="T962" end="T963">في </event>
+<event start="T963" end="T964">نفس </event>
+<event start="T964" end="T965">الكذب - </event>
+<event start="T965" end="T966">أمر </event>
+<event start="T966" end="T967">غير </event>
+<event start="T967" end="T968">متصور </event>
+<event start="T968" end="T969">عادة.</event>
+<event start="T969" end="T970">• </event>
+<event start="T970" end="T971">والثالث </event>
+<event start="T971" end="T972">فاسد: </event>
+<event start="T972" end="T973">فإن </event>
+<event start="T973" end="T974">الداعي </event>
+<event start="T974" end="T975">إلى </event>
+<event start="T975" end="T976">الكذب </event>
+<event start="T976" end="T977">والحامل </event>
+<event start="T977" end="T978">عليه </event>
+<event start="T978" end="T979">إما </event>
+<event start="T979" end="T980">الرغبة </event>
+<event start="T980" end="T981">أو </event>
+<event start="T981" end="T982">الرهبة، </event>
+<event start="T982" end="T983">فإنه </event>
+<event start="T983" end="T984">يحتمل </event>
+<event start="T984" end="T985">أن </event>
+<event start="T985" end="T986">المرء </event>
+<event start="T986" end="T987">لرغبته </event>
+<event start="T987" end="T988">إلى </event>
+<event start="T988" end="T989">الجاه </event>
+<event start="T989" end="T990">أو </event>
+<event start="T990" end="T991">المال </event>
+<event start="T991" end="T992">وأنواع </event>
+<event start="T992" end="T993">النفع </event>
+<event start="T993" end="T994">يقدم </event>
+<event start="T994" end="T995">على </event>
+<event start="T995" end="T996">الكذب، </event>
+<event start="T996" end="T997">أو </event>
+<event start="T997" end="T998">لخوف </event>
+<event start="T998" end="T999">الأضرار </event>
+<event start="T999" end="T1000">على </event>
+<event start="T1000" end="T1001">نفسه </event>
+<event start="T1001" end="T1002">وماله </event>
+<event start="T1002" end="T1003">وأهله </event>
+<event start="T1003" end="T1004">بالامتناع </event>
+<event start="T1004" end="T1005">عنه </event>
+<event start="T1005" end="T1006">ممن </event>
+<event start="T1006" end="T1007">يأمره </event>
+<event start="T1007" end="T1008">بذلك. </event>
+<event start="T1008" end="T1009">وهذا </event>
+<event start="T1009" end="T1010">الداعي </event>
+<event start="T1010" end="T1011">مما </event>
+<event start="T1011" end="T1012">لا </event>
+<event start="T1012" end="T1013">يتصور </event>
+<event start="T1013" end="T1014">شموله </event>
+<event start="T1014" end="T1015">في </event>
+<event start="T1015" end="T1016">الجماعة </event>
+<event start="T1016" end="T1017">التي </event>
+<event start="T1017" end="T1018">لا </event>
+<event start="T1018" end="T1019">يحصى </event>
+<event start="T1019" end="T1020">عددهم، </event>
+<event start="T1020" end="T1021">لاستغناء </event>
+<event start="T1021" end="T1022">البعض </event>
+<event start="T1022" end="T1023">عن </event>
+<event start="T1023" end="T1024">حشمة </event>
+<event start="T1024" end="T1025">الآمر </event>
+<event start="T1025" end="T1026">بالكذب، </event>
+<event start="T1026" end="T1027">وجاهه </event>
+<event start="T1027" end="T1028">وماله </event>
+<event start="T1028" end="T1029">لكمال </event>
+<event start="T1029" end="T1030">جاهه </event>
+<event start="T1030" end="T1031">وكثرة </event>
+<event start="T1031" end="T1032">أمواله. </event>
+<event start="T1032" end="T1033">وكذا </event>
+<event start="T1033" end="T1034">احتمال </event>
+<event start="T1034" end="T1035">خوف </event>
+<event start="T1035" end="T1036">الضرر </event>
+<event start="T1036" end="T1037">معدوم، </event>
+<event start="T1037" end="T1038">في </event>
+<event start="T1038" end="T1039">حق </event>
+<event start="T1039" end="T1040">البعض، </event>
+<event start="T1040" end="T1041">لكمال </event>
+<event start="T1041" end="T1042">قوته </event>
+<event start="T1042" end="T1043">بنفسه </event>
+<event start="T1043" end="T1044">وأتباعه، </event>
+<event start="T1044" end="T1045">نحو </event>
+<event start="T1045" end="T1046">السلاطين </event>
+<event start="T1046" end="T1047">والأمراء </event>
+<event start="T1047" end="T1048">والرؤساء </event>
+<event start="T1048" end="T1049">ونحوهم.</event>
+<event start="T1049" end="T1050">• </event>
+<event start="T1050" end="T1051">والرابع </event>
+<event start="T1051" end="T1052">فاسد: </event>
+<event start="T1052" end="T1053">وهو </event>
+<event start="T1053" end="T1054">المواضعة </event>
+<event start="T1054" end="T1055">على </event>
+<event start="T1055" end="T1056">اختراع </event>
+<event start="T1056" end="T1057">الكذب، </event>
+<event start="T1057" end="T1058">لغرض </event>
+<event start="T1058" end="T1059">لهم </event>
+<event start="T1059" end="T1060">في </event>
+<event start="T1060" end="T1061">الجملة، </event>
+<event start="T1061" end="T1062">فإن </event>
+<event start="T1062" end="T1063">ذلك </event>
+<event start="T1063" end="T1064">لا </event>
+<event start="T1064" end="T1065">يتصور </event>
+<event start="T1065" end="T1066">عادة </event>
+<event start="T1066" end="T1067">من </event>
+<event start="T1067" end="T1068">جماعة </event>
+<event start="T1068" end="T1069">لا </event>
+<event start="T1069" end="T1070">يحصى </event>
+<event start="T1070" end="T1071">عددهم، </event>
+<event start="T1071" end="T1072">وتفرقت </event>
+<event start="T1072" end="T1073">أمكنتهم، </event>
+<event start="T1073" end="T1074">واختلفت </event>
+<event start="T1074" end="T1075">هممهم.</event>
+<event start="T1075" end="T1076">وإذا </event>
+<event start="T1076" end="T1077">انتفى </event>
+<event start="T1077" end="T1078">الكذب </event>
+<event start="T1078" end="T1079">بهذه </event>
+<event start="T1079" end="T1080">الطرق، </event>
+<event start="T1080" end="T1081">ثبت </event>
+<event start="T1081" end="T1082">الصدق </event>
+<event start="T1082" end="T1083">ضرورة.</event>
+<event start="T1083" end="T1084">- </event>
+<event start="T1084" end="T1085">وأما </event>
+<event start="T1085" end="T1086">أخبار </event>
+<event start="T1086" end="T1087">اليهود </event>
+<event start="T1087" end="T1088">على </event>
+<event start="T1088" end="T1089">قتل </event>
+<event start="T1089" end="T1090">عيسى </event>
+<event start="T1090" end="T1091">وصلبه: </event>
+<event start="T1091" end="T1092">إن </event>
+<event start="T1092" end="T1093">كان </event>
+<event start="T1093" end="T1094">في </event>
+<event start="T1094" end="T1095">حد </event>
+<event start="T1095" end="T1096">التواتر </event>
+<event start="T1096" end="T1097">ظاهرً</event>
+<event start="T1097" end="T1098">ا، </event>
+<event start="T1098" end="T1099">لوقوع </event>
+<event start="T1099" end="T1100">حسهم </event>
+<event start="T1100" end="T1101">عليه </event>
+<event start="T1101" end="T1102">ظاهرً</event>
+<event start="T1102" end="T1103">ا، </event>
+<event start="T1103" end="T1104">لكن </event>
+<event start="T1104" end="T1105">قد </event>
+<event start="T1105" end="T1106">ثبت </event>
+<event start="T1106" end="T1107">بدليل </event>
+<event start="T1107" end="T1108">قطعي </event>
+<event start="T1108" end="T1109">عندنا </event>
+<event start="T1109" end="T1110">أن</event>
+<event start="T1110" end="T1111">عيسى </event>
+<event start="T1111" end="T1112">ما </event>
+<event start="T1112" end="T1113">قتل </event>
+<event start="T1113" end="T1114">وما </event>
+<event start="T1114" end="T1115">صلب، </event>
+<event start="T1115" end="T1116">ولكن </event>
+<event start="T1116" end="T1117">قتل </event>
+<event start="T1117" end="T1118">مثله </event>
+<event start="T1118" end="T1119">وشبيهه </event>
+<event start="T1119" end="T1120">صورة - </event>
+<event start="T1120" end="T1121">قال </event>
+<event start="T1121" end="T1122">الله </event>
+<event start="T1122" end="T1123">تعالى: "</event>
+<event start="T1123" end="T1124">وما </event>
+<event start="T1124" end="T1125">قتلوه </event>
+<event start="T1125" end="T1126">وما </event>
+<event start="T1126" end="T1127">صلبوه </event>
+<event start="T1127" end="T1128">ولكن </event>
+<event start="T1128" end="T1129">شبه </event>
+<event start="T1129" end="T1130">لهم"، </event>
+<event start="T1130" end="T1131">وإلقاء </event>
+<event start="T1131" end="T1132">شبه </event>
+<event start="T1132" end="T1133">الإنسان </event>
+<event start="T1133" end="T1134">على </event>
+<event start="T1134" end="T1135">مثله </event>
+<event start="T1135" end="T1136">جائز، </event>
+<event start="T1136" end="T1137">على </event>
+<event start="T1137" end="T1138">نقض </event>
+<event start="T1138" end="T1139">العادة، </event>
+<event start="T1139" end="T1140">كرامة </event>
+<event start="T1140" end="T1141">للنبي </event>
+<event start="T1141" end="T1142">عيله </event>
+<event start="T1142" end="T1143">السلام </event>
+<event start="T1143" end="T1144">وصيانة </event>
+<event start="T1144" end="T1145">له </event>
+<event start="T1145" end="T1146">عن </event>
+<event start="T1146" end="T1147">استذلال </event>
+<event start="T1147" end="T1148">الكفرة، </event>
+<event start="T1148" end="T1149">في </event>
+<event start="T1149" end="T1150">وقت </event>
+<event start="T1150" end="T1151">لا </event>
+<event start="T1151" end="T1152">يتوهمِ </event>
+<event start="T1152" end="T1153">أن </event>
+<event start="T1153" end="T1154">يؤمن </event>
+<event start="T1154" end="T1155">أحد </event>
+<event start="T1155" end="T1156">به </event>
+<event start="T1156" end="T1157">في </event>
+<event start="T1157" end="T1158">تلك </event>
+<event start="T1158" end="T1159">الحالة، </event>
+<event start="T1159" end="T1160">فكان </event>
+<event start="T1160" end="T1161">إخبارهم </event>
+<event start="T1161" end="T1162">بطريق </event>
+<event start="T1162" end="T1163">التواتر </event>
+<event start="T1163" end="T1164">موجبً</event>
+<event start="T1164" end="T1165">ا </event>
+<event start="T1165" end="T1166">علمً</event>
+<event start="T1166" end="T1167">ا </event>
+<event start="T1167" end="T1168">قطعيً</event>
+<event start="T1168" end="T1169">ا </event>
+<event start="T1169" end="T1170">على </event>
+<event start="T1170" end="T1171">قتل </event>
+<event start="T1171" end="T1172">مثل </event>
+<event start="T1172" end="T1173">عيسى </event>
+<event start="T1173" end="T1174">وشبيهه، </event>
+<event start="T1174" end="T1175">وإن </event>
+<event start="T1175" end="T1176">كان </event>
+<event start="T1176" end="T1177">في </event>
+<event start="T1177" end="T1178">ظنهم </event>
+<event start="T1178" end="T1179">أنه </event>
+<event start="T1179" end="T1180">عيسى، </event>
+<event start="T1180" end="T1181">باعتبار </event>
+<event start="T1181" end="T1182">ظاهر </event>
+<event start="T1182" end="T1183">العادة، </event>
+<event start="T1183" end="T1184">ولا </event>
+<event start="T1184" end="T1185">كلام </event>
+<event start="T1185" end="T1186">في </event>
+<event start="T1186" end="T1187">حال </event>
+<event start="T1187" end="T1188">نقض </event>
+<event start="T1188" end="T1189">العادة، </event>
+<event start="T1189" end="T1190">إنما </event>
+<event start="T1190" end="T1191">الكلام </event>
+<event start="T1191" end="T1192">على </event>
+<event start="T1192" end="T1193">استقرار </event>
+<event start="T1193" end="T1194">العادة - </event>
+<event start="T1194" end="T1195">والله </event>
+<event start="T1195" end="T1196">أعلم.</event>
+<event start="T1196" end="T1197">- </event>
+<event start="T1197" end="T1198">وأما </event>
+<event start="T1198" end="T1199">خبر </event>
+<event start="T1199" end="T1200">المجوس، </event>
+<event start="T1200" end="T1201">في </event>
+<event start="T1201" end="T1202">دعواهم </event>
+<event start="T1202" end="T1203">ظهور </event>
+<event start="T1203" end="T1204">المعجزات </event>
+<event start="T1204" end="T1205">ونقض </event>
+<event start="T1205" end="T1206">والعادة </event>
+<event start="T1206" end="T1207">على </event>
+<event start="T1207" end="T1208">يدي </event>
+<event start="T1208" end="T1209">زرادشت </event>
+<event start="T1209" end="T1210">اللعين، </event>
+<event start="T1210" end="T1211">فليس </event>
+<event start="T1211" end="T1212">في </event>
+<event start="T1212" end="T1213">حد </event>
+<event start="T1213" end="T1214">التواتر، </event>
+<event start="T1214" end="T1215">فإنه </event>
+<event start="T1215" end="T1216">روي </event>
+<event start="T1216" end="T1217">أنه </event>
+<event start="T1217" end="T1218">فعل </event>
+<event start="T1218" end="T1219">ذلك </event>
+<event start="T1219" end="T1220">بين </event>
+<event start="T1220" end="T1221">يدي </event>
+<event start="T1221" end="T1222">الملك </event>
+<event start="T1222" end="T1223">وخاصته، </event>
+<event start="T1223" end="T1224">ونشروا </event>
+<event start="T1224" end="T1225">ذلك </event>
+<event start="T1225" end="T1226">بين </event>
+<event start="T1226" end="T1227">يدي </event>
+<event start="T1227" end="T1228">العامة </event>
+<event start="T1228" end="T1229">تزويرً</event>
+<event start="T1229" end="T1230">ا، </event>
+<event start="T1230" end="T1231">لغرض </event>
+<event start="T1231" end="T1232">لهم </event>
+<event start="T1232" end="T1233">في </event>
+<event start="T1233" end="T1234">ذلك، </event>
+<event start="T1234" end="T1235">وهو </event>
+<event start="T1235" end="T1236">أمر </event>
+<event start="T1236" end="T1237">معتاد </event>
+<event start="T1237" end="T1238">فيما </event>
+<event start="T1238" end="T1239">بين </event>
+<event start="T1239" end="T1240">الملوك </event>
+<event start="T1240" end="T1241">والرعية، </event>
+<event start="T1241" end="T1242">لاستقامة </event>
+<event start="T1242" end="T1243">أمر </event>
+<event start="T1243" end="T1244">الملك.</event>
+<event start="T1244" end="T1245">ثم </event>
+<event start="T1245" end="T1246">وجه </event>
+<event start="T1246" end="T1247">قول </event>
+<event start="T1247" end="T1248">من </event>
+<event start="T1248" end="T1249">قال </event>
+<event start="T1249" end="T1250">إنه </event>
+<event start="T1250" end="T1251">يفيد </event>
+<event start="T1251" end="T1252">علمً</event>
+<event start="T1252" end="T1253">ا </event>
+<event start="T1253" end="T1254">استدلاليً</event>
+<event start="T1254" end="T1255">ا - </event>
+<event start="T1255" end="T1256">أن </event>
+<event start="T1256" end="T1257">ما </event>
+<event start="T1257" end="T1258">ذكرنا </event>
+<event start="T1258" end="T1259">من </event>
+<event start="T1259" end="T1260">الحجة </event>
+<event start="T1260" end="T1261">في </event>
+<event start="T1261" end="T1262">كون </event>
+<event start="T1262" end="T1263">الخبر </event>
+<event start="T1263" end="T1264">المتواتر </event>
+<event start="T1264" end="T1265">موجبً</event>
+<event start="T1265" end="T1266">ا </event>
+<event start="T1266" end="T1267">علمً</event>
+<event start="T1267" end="T1268">ا </event>
+<event start="T1268" end="T1269">قطعيً</event>
+<event start="T1269" end="T1270">ا </event>
+<event start="T1270" end="T1271">نوع </event>
+<event start="T1271" end="T1272">استدلال، </event>
+<event start="T1272" end="T1273">فإن</event>
+<event start="T1273" end="T1274">الاستدلال </event>
+<event start="T1274" end="T1275">ليس </event>
+<event start="T1275" end="T1276">إلا </event>
+<event start="T1276" end="T1277">ترتيب </event>
+<event start="T1277" end="T1278">المقدمات </event>
+<event start="T1278" end="T1279">الصادقة </event>
+<event start="T1279" end="T1280">بعضها </event>
+<event start="T1280" end="T1281">على </event>
+<event start="T1281" end="T1282">بعض، </event>
+<event start="T1282" end="T1283">وهذا </event>
+<event start="T1283" end="T1284">الحد </event>
+<event start="T1284" end="T1285">موجود </event>
+<event start="T1285" end="T1286">في </event>
+<event start="T1286" end="T1287">هذا </event>
+<event start="T1287" end="T1288">النوع </event>
+<event start="T1288" end="T1289">من </event>
+<event start="T1289" end="T1290">الاستدلال.</event>
+<event start="T1290" end="T1291">وجه </event>
+<event start="T1291" end="T1292">قول </event>
+<event start="T1292" end="T1293">العامة </event>
+<event start="T1293" end="T1294">ما </event>
+<event start="T1294" end="T1295">ذكرنا </event>
+<event start="T1295" end="T1296">من </event>
+<event start="T1296" end="T1297">حصول </event>
+<event start="T1297" end="T1298">العلم </event>
+<event start="T1298" end="T1299">بالملوك </event>
+<event start="T1299" end="T1300">الماضية </event>
+<event start="T1300" end="T1301">والبلدان </event>
+<event start="T1301" end="T1302">النائية </event>
+<event start="T1302" end="T1303">من </event>
+<event start="T1303" end="T1304">غير </event>
+<event start="T1304" end="T1305">استدلال </event>
+<event start="T1305" end="T1306">وصنع </event>
+<event start="T1306" end="T1307">من </event>
+<event start="T1307" end="T1308">جهة </event>
+<event start="T1308" end="T1309">العالم </event>
+<event start="T1309" end="T1310">به، </event>
+<event start="T1310" end="T1311">وهو </event>
+<event start="T1311" end="T1312">حد </event>
+<event start="T1312" end="T1313">العلم </event>
+<event start="T1313" end="T1314">الضروري.</event>
+<event start="T1314" end="T1315">وإنما </event>
+<event start="T1315" end="T1316">اشتغل </event>
+<event start="T1316" end="T1317">بعض </event>
+<event start="T1317" end="T1318">أصحابنا، </event>
+<event start="T1318" end="T1319">بما </event>
+<event start="T1319" end="T1320">ذكرنا، </event>
+<event start="T1320" end="T1321">من </event>
+<event start="T1321" end="T1322">نوع </event>
+<event start="T1322" end="T1323">الاستدلال، </event>
+<event start="T1323" end="T1324">للإلزام </event>
+<event start="T1324" end="T1325">على </event>
+<event start="T1325" end="T1326">من </event>
+<event start="T1326" end="T1327">ينكر </event>
+<event start="T1327" end="T1328">الضرورة </event>
+<event start="T1328" end="T1329">تعنتً</event>
+<event start="T1329" end="T1330">ا </event>
+<event start="T1330" end="T1331">ومكابرة، </event>
+<event start="T1331" end="T1332">وهو </event>
+<event start="T1332" end="T1333">يعتقد </event>
+<event start="T1333" end="T1334">العلي </event>
+<event start="T1334" end="T1335">الاستدلالي، </event>
+<event start="T1335" end="T1336">فتقوم </event>
+<event start="T1336" end="T1337">عليه </event>
+<event start="T1337" end="T1338">الحجة - </event>
+<event start="T1338" end="T1339">والله </event>
+<event start="T1339" end="T1340">أعلم.</event>
+<event start="T1340" end="T1341">وأما </event>
+<event start="T1341" end="T1342">الخبر </event>
+<event start="T1342" end="T1343">المشهور</event>
+<event start="T1343" end="T1344">[</event>
+<event start="T1344" end="T1345">فـ] </event>
+<event start="T1345" end="T1346">سمي </event>
+<event start="T1346" end="T1347">به، </event>
+<event start="T1347" end="T1348">لغة </event>
+<event start="T1348" end="T1349">لاشتهاره </event>
+<event start="T1349" end="T1350">واستفاضته، </event>
+<event start="T1350" end="T1351">فيما </event>
+<event start="T1351" end="T1352">بين </event>
+<event start="T1352" end="T1353">النقلة </event>
+<event start="T1353" end="T1354">وأهل </event>
+<event start="T1354" end="T1355">العلم.</event>
+<event start="T1355" end="T1356">وأما </event>
+<event start="T1356" end="T1357">في </event>
+<event start="T1357" end="T1358">عرف </event>
+<event start="T1358" end="T1359">الفقهاء </event>
+<event start="T1359" end="T1360">والمتكلمين - </event>
+<event start="T1360" end="T1361">فهو </event>
+<event start="T1361" end="T1362">اسم </event>
+<event start="T1362" end="T1363">لخبر </event>
+<event start="T1363" end="T1364">كان </event>
+<event start="T1364" end="T1365">من </event>
+<event start="T1365" end="T1366">الآحاد </event>
+<event start="T1366" end="T1367">في </event>
+<event start="T1367" end="T1368">الابتداء، </event>
+<event start="T1368" end="T1369">ثم </event>
+<event start="T1369" end="T1370">اشتهر </event>
+<event start="T1370" end="T1371">فيما </event>
+<event start="T1371" end="T1372">بين </event>
+<event start="T1372" end="T1373">العلماء </event>
+<event start="T1373" end="T1374">في </event>
+<event start="T1374" end="T1375">العصر </event>
+<event start="T1375" end="T1376">الثاني، </event>
+<event start="T1376" end="T1377">حتى </event>
+<event start="T1377" end="T1378">رواه </event>
+<event start="T1378" end="T1379">جماعة </event>
+<event start="T1379" end="T1380">لا </event>
+<event start="T1380" end="T1381">يتصور </event>
+<event start="T1381" end="T1382">تواطؤهم </event>
+<event start="T1382" end="T1383">على </event>
+<event start="T1383" end="T1384">الكذب.</event>
+<event start="T1384" end="T1385">وقيل </event>
+<event start="T1385" end="T1386">في </event>
+<event start="T1386" end="T1387">حده: </event>
+<event start="T1387" end="T1388">ما </event>
+<event start="T1388" end="T1389">تلقته </event>
+<event start="T1389" end="T1390">العلماء </event>
+<event start="T1390" end="T1391">بالقبول.</event>
+<event start="T1391" end="T1392">وأما </event>
+<event start="T1392" end="T1393">شرائطه - </event>
+<event start="T1393" end="T1394">فما </event>
+<event start="T1394" end="T1395">ذكرنا </event>
+<event start="T1395" end="T1396">في </event>
+<event start="T1396" end="T1397">المتواتر، </event>
+<event start="T1397" end="T1398">إلا </event>
+<event start="T1398" end="T1399">أن </event>
+<event start="T1399" end="T1400">كثرة </event>
+<event start="T1400" end="T1401">الرواة </event>
+<event start="T1401" end="T1402">في </event>
+<event start="T1402" end="T1403">الابتداء </event>
+<event start="T1403" end="T1404">ليس </event>
+<event start="T1404" end="T1405">بشرط.</event>
+<event start="T1405" end="T1406">وأما </event>
+<event start="T1406" end="T1407">حكم </event>
+<event start="T1407" end="T1408">المشهور:</event>
+<event start="T1408" end="T1409">مسألة - </event>
+<event start="T1409" end="T1410">اختلف </event>
+<event start="T1410" end="T1411">مشايخنا </event>
+<event start="T1411" end="T1412">فيه، </event>
+<event start="T1412" end="T1413">ولا </event>
+<event start="T1413" end="T1414">رواية </event>
+<event start="T1414" end="T1415">عن </event>
+<event start="T1415" end="T1416">أصحابنا.</event>
+<event start="T1416" end="T1417">قال </event>
+<event start="T1417" end="T1418">بعضهم: </event>
+<event start="T1418" end="T1419">إنه </event>
+<event start="T1419" end="T1420">يوجب </event>
+<event start="T1420" end="T1421">علم </event>
+<event start="T1421" end="T1422">طمأنينة </event>
+<event start="T1422" end="T1423">لا </event>
+<event start="T1423" end="T1424">علم </event>
+<event start="T1424" end="T1425">يقين. </event>
+<event start="T1425" end="T1426">وهو </event>
+<event start="T1426" end="T1427">اختيار </event>
+<event start="T1427" end="T1428">الشيخ </event>
+<event start="T1428" end="T1429">القاضي </event>
+<event start="T1429" end="T1430">الإمام </event>
+<event start="T1430" end="T1431">أبي </event>
+<event start="T1431" end="T1432">زيد </event>
+<event start="T1432" end="T1433">رحمه </event>
+<event start="T1433" end="T1434">الله.</event>
+<event start="T1434" end="T1435">وقال </event>
+<event start="T1435" end="T1436">عامة </event>
+<event start="T1436" end="T1437">مشايخنا </event>
+<event start="T1437" end="T1438">رحمهم </event>
+<event start="T1438" end="T1439">الله: </event>
+<event start="T1439" end="T1440">إنه </event>
+<event start="T1440" end="T1441">يوجب </event>
+<event start="T1441" end="T1442">علمً</event>
+<event start="T1442" end="T1443">ا </event>
+<event start="T1443" end="T1444">قطعيً</event>
+<event start="T1444" end="T1445">ا.</event>
+<event start="T1445" end="T1446">ووجه </event>
+<event start="T1446" end="T1447">قول </event>
+<event start="T1447" end="T1448">الفريق </event>
+<event start="T1448" end="T1449">الأول: </event>
+<event start="T1449" end="T1450">أن </event>
+<event start="T1450" end="T1451">نسخ </event>
+<event start="T1451" end="T1452">الكتاب </event>
+<event start="T1452" end="T1453">لا </event>
+<event start="T1453" end="T1454">يجوز </event>
+<event start="T1454" end="T1455">بالخبر </event>
+<event start="T1455" end="T1456">المشهور، </event>
+<event start="T1456" end="T1457">ولو </event>
+<event start="T1457" end="T1458">كان </event>
+<event start="T1458" end="T1459">موجبً</event>
+<event start="T1459" end="T1460">ا </event>
+<event start="T1460" end="T1461">علمً</event>
+<event start="T1461" end="T1462">ا </event>
+<event start="T1462" end="T1463">قطعيً</event>
+<event start="T1463" end="T1464">ا </event>
+<event start="T1464" end="T1465">لجاز، </event>
+<event start="T1465" end="T1466">كما </event>
+<event start="T1466" end="T1467">في </event>
+<event start="T1467" end="T1468">الخبر </event>
+<event start="T1468" end="T1469">المتواتر. </event>
+<event start="T1469" end="T1470">وكذا </event>
+<event start="T1470" end="T1471">لا </event>
+<event start="T1471" end="T1472">يكفر </event>
+<event start="T1472" end="T1473">جاحده، </event>
+<event start="T1473" end="T1474">ولو </event>
+<event start="T1474" end="T1475">كان </event>
+<event start="T1475" end="T1476">موجبً</event>
+<event start="T1476" end="T1477">ا </event>
+<event start="T1477" end="T1478">علمً</event>
+<event start="T1478" end="T1479">ا </event>
+<event start="T1479" end="T1480">قطعيً</event>
+<event start="T1480" end="T1481">ا </event>
+<event start="T1481" end="T1482">لكان </event>
+<event start="T1482" end="T1483">يكفر </event>
+<event start="T1483" end="T1484">جاحده </event>
+<event start="T1484" end="T1485">كما </event>
+<event start="T1485" end="T1486">في </event>
+<event start="T1486" end="T1487">المتواتر. </event>
+<event start="T1487" end="T1488">ولا </event>
+<event start="T1488" end="T1489">يلزم </event>
+<event start="T1489" end="T1490">أن </event>
+<event start="T1490" end="T1491">الزيادة </event>
+<event start="T1491" end="T1492">على </event>
+<event start="T1492" end="T1493">النص </event>
+<event start="T1493" end="T1494">نسخ </event>
+<event start="T1494" end="T1495">عندكم. </event>
+<event start="T1495" end="T1496">وهي </event>
+<event start="T1496" end="T1497">جائزة </event>
+<event start="T1497" end="T1498">بالمشهور، </event>
+<event start="T1498" end="T1499">لأنا </event>
+<event start="T1499" end="T1500">لا </event>
+<event start="T1500" end="T1501">نسلم </event>
+<event start="T1501" end="T1502">أن </event>
+<event start="T1502" end="T1503">الزيادة </event>
+<event start="T1503" end="T1504">على </event>
+<event start="T1504" end="T1505">النص </event>
+<event start="T1505" end="T1506">نسخ </event>
+<event start="T1506" end="T1507">من </event>
+<event start="T1507" end="T1508">كل </event>
+<event start="T1508" end="T1509">وجه </event>
+<event start="T1509" end="T1510">بل </event>
+<event start="T1510" end="T1511">هي </event>
+<event start="T1511" end="T1512">نسخ </event>
+<event start="T1512" end="T1513">من </event>
+<event start="T1513" end="T1514">وجه </event>
+<event start="T1514" end="T1515">دون </event>
+<event start="T1515" end="T1516">وجه </event>
+<event start="T1516" end="T1517">على </event>
+<event start="T1517" end="T1518">كل </event>
+<event start="T1518" end="T1519">ما </event>
+<event start="T1519" end="T1520">نذكر </event>
+<event start="T1520" end="T1521">في </event>
+<event start="T1521" end="T1522">فصل </event>
+<event start="T1522" end="T1523">النسخ. </event>
+<event start="T1523" end="T1524">والخبر </event>
+<event start="T1524" end="T1525">المشهور </event>
+<event start="T1525" end="T1526">بين </event>
+<event start="T1526" end="T1527">المتواتر </event>
+<event start="T1527" end="T1528">وخبر </event>
+<event start="T1528" end="T1529">الواحد، </event>
+<event start="T1529" end="T1530">وهو </event>
+<event start="T1530" end="T1531">فوق </event>
+<event start="T1531" end="T1532">خبر </event>
+<event start="T1532" end="T1533">الواحد </event>
+<event start="T1533" end="T1534">ودون </event>
+<event start="T1534" end="T1535">المتواتر، </event>
+<event start="T1535" end="T1536">فجاز </event>
+<event start="T1536" end="T1537">به </event>
+<event start="T1537" end="T1538">النسخ </event>
+<event start="T1538" end="T1539">من </event>
+<event start="T1539" end="T1540">وجه، </event>
+<event start="T1540" end="T1541">دون </event>
+<event start="T1541" end="T1542">الفسخ </event>
+<event start="T1542" end="T1543">من </event>
+<event start="T1543" end="T1544">كل </event>
+<event start="T1544" end="T1545">وجه، </event>
+<event start="T1545" end="T1546">عملا </event>
+<event start="T1546" end="T1547">بقدر </event>
+<event start="T1547" end="T1548">الدليل.</event>
+<event start="T1548" end="T1549">ووجه </event>
+<event start="T1549" end="T1550">قول </event>
+<event start="T1550" end="T1551">العامة </event>
+<event start="T1551" end="T1552">ما </event>
+<event start="T1552" end="T1553">ذكرنا: </event>
+<event start="T1553" end="T1554">أن </event>
+<event start="T1554" end="T1555">الخبر </event>
+<event start="T1555" end="T1556">المشهور </event>
+<event start="T1556" end="T1557">ما </event>
+<event start="T1557" end="T1558">تلقته </event>
+<event start="T1558" end="T1559">العلماء </event>
+<event start="T1559" end="T1560">بالقبول، </event>
+<event start="T1560" end="T1561">فوجد </event>
+<event start="T1561" end="T1562">إجماع </event>
+<event start="T1562" end="T1563">أهل </event>
+<event start="T1563" end="T1564">العصر </event>
+<event start="T1564" end="T1565">على </event>
+<event start="T1565" end="T1566">قبوله، </event>
+<event start="T1566" end="T1567">فيكون </event>
+<event start="T1567" end="T1568">حكمه </event>
+<event start="T1568" end="T1569">حكم </event>
+<event start="T1569" end="T1570">الإجماع، </event>
+<event start="T1570" end="T1571">وذا </event>
+<event start="T1571" end="T1572">موجب </event>
+<event start="T1572" end="T1573">للعلم </event>
+<event start="T1573" end="T1574">قطعً</event>
+<event start="T1574" end="T1575">ا - </event>
+<event start="T1575" end="T1576">فكذا </event>
+<event start="T1576" end="T1577">هذا.</event>
+<event start="T1577" end="T1578">- </event>
+<event start="T1578" end="T1579">قولهم </event>
+<event start="T1579" end="T1580">بأنه </event>
+<event start="T1580" end="T1581">لا </event>
+<event start="T1581" end="T1582">يجوز </event>
+<event start="T1582" end="T1583">به </event>
+<event start="T1583" end="T1584">نسخ </event>
+<event start="T1584" end="T1585">الكتاب </event>
+<event start="T1585" end="T1586">فممنوع.</event>
+<event start="T1586" end="T1587">- </event>
+<event start="T1587" end="T1588">قولهم </event>
+<event start="T1588" end="T1589">بأنه </event>
+<event start="T1589" end="T1590">لا </event>
+<event start="T1590" end="T1591">يكفر </event>
+<event start="T1591" end="T1592">جاحده، </event>
+<event start="T1592" end="T1593">فنقول:</event>
+<event start="T1593" end="T1594">بعض </event>
+<event start="T1594" end="T1595">مشايخنا </event>
+<event start="T1595" end="T1596">قالوا </event>
+<event start="T1596" end="T1597">بأنه </event>
+<event start="T1597" end="T1598">يكفر </event>
+<event start="T1598" end="T1599">جاحده.</event>
+<event start="T1599" end="T1600">وروي </event>
+<event start="T1600" end="T1601">عن </event>
+<event start="T1601" end="T1602">عيسى </event>
+<event start="T1602" end="T1603">بن </event>
+<event start="T1603" end="T1604">أبان </event>
+<event start="T1604" end="T1605">رحمه </event>
+<event start="T1605" end="T1606">الله </event>
+<event start="T1606" end="T1607">بأنه </event>
+<event start="T1607" end="T1608">يضلل </event>
+<event start="T1608" end="T1609">جاحده، </event>
+<event start="T1609" end="T1610">ولا </event>
+<event start="T1610" end="T1611">يكفر.</event>
+<event start="T1611" end="T1612">وهو </event>
+<event start="T1612" end="T1613">الصحيح </event>
+<event start="T1613" end="T1614">بخلاف </event>
+<event start="T1614" end="T1615">المتواتر.</event>
+<event start="T1615" end="T1616">ووجه </event>
+<event start="T1616" end="T1617">الفرق </event>
+<event start="T1617" end="T1618">بينهما </event>
+<event start="T1618" end="T1619">أن </event>
+<event start="T1619" end="T1620">في </event>
+<event start="T1620" end="T1621">إنكار </event>
+<event start="T1621" end="T1622">المتواتر </event>
+<event start="T1622" end="T1623">تكذيب </event>
+<event start="T1623" end="T1624">الرسول - </event>
+<event start="T1624" end="T1625">صلى </event>
+<event start="T1625" end="T1626">الله </event>
+<event start="T1626" end="T1627">عليه </event>
+<event start="T1627" end="T1628">وسلم -، </event>
+<event start="T1628" end="T1629">لأن </event>
+<event start="T1629" end="T1630">المتواتر </event>
+<event start="T1630" end="T1631">بخروج </event>
+<event start="T1631" end="T1632">روايته </event>
+<event start="T1632" end="T1633">عن </event>
+<event start="T1633" end="T1634">حد </event>
+<event start="T1634" end="T1635">العد </event>
+<event start="T1635" end="T1636">والإحصار </event>
+<event start="T1636" end="T1637">ابتداء </event>
+<event start="T1637" end="T1638">وانتهاء، </event>
+<event start="T1638" end="T1639">بمنزلة </event>
+<event start="T1639" end="T1640">المسموع </event>
+<event start="T1640" end="T1641">من </event>
+<event start="T1641" end="T1642">رسول </event>
+<event start="T1642" end="T1643">الله - </event>
+<event start="T1643" end="T1644">صلى </event>
+<event start="T1644" end="T1645">الله </event>
+<event start="T1645" end="T1646">عليه </event>
+<event start="T1646" end="T1647">وسلم -، </event>
+<event start="T1647" end="T1648">وتكذيب </event>
+<event start="T1648" end="T1649">الرسول - </event>
+<event start="T1649" end="T1650">صلى </event>
+<event start="T1650" end="T1651">الله </event>
+<event start="T1651" end="T1652">عليه </event>
+<event start="T1652" end="T1653">وسلم - </event>
+<event start="T1653" end="T1654">كفر. </event>
+<event start="T1654" end="T1655">فأما </event>
+<event start="T1655" end="T1656">إنكار </event>
+<event start="T1656" end="T1657">المشهور، [</event>
+<event start="T1657" end="T1658">فـ] </event>
+<event start="T1658" end="T1659">ليس </event>
+<event start="T1659" end="T1660">بتكذيب </event>
+<event start="T1660" end="T1661">الرسول - </event>
+<event start="T1661" end="T1662">صلى </event>
+<event start="T1662" end="T1663">الله </event>
+<event start="T1663" end="T1664">عليه </event>
+<event start="T1664" end="T1665">وسلم -، </event>
+<event start="T1665" end="T1666">لأنه </event>
+<event start="T1666" end="T1667">لم </event>
+<event start="T1667" end="T1668">يسمع </event>
+<event start="T1668" end="T1669">من </event>
+<event start="T1669" end="T1670">الرسول </event>
+<event start="T1670" end="T1671">عدد </event>
+<event start="T1671" end="T1672">لا </event>
+<event start="T1672" end="T1673">يتصور </event>
+<event start="T1673" end="T1674">تواطؤهم </event>
+<event start="T1674" end="T1675">على </event>
+<event start="T1675" end="T1676">الكذب، </event>
+<event start="T1676" end="T1677">وإنما </event>
+<event start="T1677" end="T1678">هو </event>
+<event start="T1678" end="T1679">خبر </event>
+<event start="T1679" end="T1680">واحد </event>
+<event start="T1680" end="T1681">قبله </event>
+<event start="T1681" end="T1682">العلماء </event>
+<event start="T1682" end="T1683">في </event>
+<event start="T1683" end="T1684">الحصر </event>
+<event start="T1684" end="T1685">الثاني، </event>
+<event start="T1685" end="T1686">فيكون </event>
+<event start="T1686" end="T1687">إنكاره </event>
+<event start="T1687" end="T1688">تخطئة </event>
+<event start="T1688" end="T1689">لهم </event>
+<event start="T1689" end="T1690">عن </event>
+<event start="T1690" end="T1691">القبول، </event>
+<event start="T1691" end="T1692">واتهامً</event>
+<event start="T1692" end="T1693">ا </event>
+<event start="T1693" end="T1694">لهم </event>
+<event start="T1694" end="T1695">عن </event>
+<event start="T1695" end="T1696">أن </event>
+<event start="T1696" end="T1697">يتأملوا </event>
+<event start="T1697" end="T1698">في </event>
+<event start="T1698" end="T1699">كونه </event>
+<event start="T1699" end="T1700">عن </event>
+<event start="T1700" end="T1701">الرسول - </event>
+<event start="T1701" end="T1702">صلى </event>
+<event start="T1702" end="T1703">الله </event>
+<event start="T1703" end="T1704">عليه </event>
+<event start="T1704" end="T1705">وسلم - </event>
+<event start="T1705" end="T1706">غاية </event>
+<event start="T1706" end="T1707">التأمل، </event>
+<event start="T1707" end="T1708">وتخطئة </event>
+<event start="T1708" end="T1709">جماعة </event>
+<event start="T1709" end="T1710">العلماء </event>
+<event start="T1710" end="T1711">ليس </event>
+<event start="T1711" end="T1712">بكفر، </event>
+<event start="T1712" end="T1713">ولكنه </event>
+<event start="T1713" end="T1714">بدعة </event>
+<event start="T1714" end="T1715">وضلالة. </event>
+<event start="T1715" end="T1716">فهذا </event>
+<event start="T1716" end="T1717">هو </event>
+<event start="T1717" end="T1718">الفرق </event>
+<event start="T1718" end="T1719">بينهما - </event>
+<event start="T1719" end="T1720">والله </event>
+<event start="T1720" end="T1721">أعلم.</event>
+<event start="T1721" end="T1722">فصل - </event>
+<event start="T1722" end="T1723">وأما </event>
+<event start="T1723" end="T1724">خبر </event>
+<event start="T1724" end="T1725">الواحد</event>
+<event start="T1725" end="T1726">فهو </event>
+<event start="T1726" end="T1727">في </event>
+<event start="T1727" end="T1728">اللغة </event>
+<event start="T1728" end="T1729">مأخوذ </event>
+<event start="T1729" end="T1730">من </event>
+<event start="T1730" end="T1731">اسمه. </event>
+<event start="T1731" end="T1732">وهو </event>
+<event start="T1732" end="T1733">خبر </event>
+<event start="T1733" end="T1734">رواه </event>
+<event start="T1734" end="T1735">واحد </event>
+<event start="T1735" end="T1736">عن </event>
+<event start="T1736" end="T1737">واحد.</event>
+<event start="T1737" end="T1738">وفي </event>
+<event start="T1738" end="T1739">عرف </event>
+<event start="T1739" end="T1740">الفقهاء </event>
+<event start="T1740" end="T1741">صار </event>
+<event start="T1741" end="T1742">عبارة </event>
+<event start="T1742" end="T1743">عن </event>
+<event start="T1743" end="T1744">خبر </event>
+<event start="T1744" end="T1745">لم </event>
+<event start="T1745" end="T1746">يدخل </event>
+<event start="T1746" end="T1747">في </event>
+<event start="T1747" end="T1748">حد </event>
+<event start="T1748" end="T1749">الاشتهار، </event>
+<event start="T1749" end="T1750">ولم </event>
+<event start="T1750" end="T1751">يقع </event>
+<event start="T1751" end="T1752">الإجماع </event>
+<event start="T1752" end="T1753">على </event>
+<event start="T1753" end="T1754">قبوله، </event>
+<event start="T1754" end="T1755">وإن </event>
+<event start="T1755" end="T1756">كان </event>
+<event start="T1756" end="T1757">الراوي </event>
+<event start="T1757" end="T1758">اثنين </event>
+<event start="T1758" end="T1759">أو </event>
+<event start="T1759" end="T1760">ثلاثة </event>
+<event start="T1760" end="T1761">أو </event>
+<event start="T1761" end="T1762">عشرة.</event>
+<event start="T1762" end="T1763">وأما </event>
+<event start="T1763" end="T1764">شرائطه </event>
+<event start="T1764" end="T1765">فكثيرة: </event>
+<event start="T1765" end="T1766">بعضها </event>
+<event start="T1766" end="T1767">في </event>
+<event start="T1767" end="T1768">الراوي، </event>
+<event start="T1768" end="T1769">وبعضها </event>
+<event start="T1769" end="T1770">في </event>
+<event start="T1770" end="T1771">نفس </event>
+<event start="T1771" end="T1772">الخبر، </event>
+<event start="T1772" end="T1773">وبعضها </event>
+<event start="T1773" end="T1774">في </event>
+<event start="T1774" end="T1775">شيء </event>
+<event start="T1775" end="T1776">آخر. </event>
+<event start="T1776" end="T1777">ثم </event>
+<event start="T1777" end="T1778">بعض </event>
+<event start="T1778" end="T1779">الشرائط </event>
+<event start="T1779" end="T1780">متفق </event>
+<event start="T1780" end="T1781">عليه، </event>
+<event start="T1781" end="T1782">وبعضها </event>
+<event start="T1782" end="T1783">مختلف </event>
+<event start="T1783" end="T1784">فيه.</event>
+<event start="T1784" end="T1785">أما </event>
+<event start="T1785" end="T1786">التي </event>
+<event start="T1786" end="T1787">في </event>
+<event start="T1787" end="T1788">الراوي: [</event>
+<event start="T1788" end="T1789">فـ] </event>
+<event start="T1789" end="T1790">الإسلام، </event>
+<event start="T1790" end="T1791">والعقل، </event>
+<event start="T1791" end="T1792">والعدالة، </event>
+<event start="T1792" end="T1793">والضبط </event>
+<event start="T1793" end="T1794">شرط </event>
+<event start="T1794" end="T1795">بالاتفاق.</event>
+<event start="T1795" end="T1796">أما </event>
+<event start="T1796" end="T1797">العقل - </event>
+<event start="T1797" end="T1798">فلأنه </event>
+<event start="T1798" end="T1799">لا </event>
+<event start="T1799" end="T1800">صحة </event>
+<event start="T1800" end="T1801">للكلام </event>
+<event start="T1801" end="T1802">بدون </event>
+<event start="T1802" end="T1803">العقل, </event>
+<event start="T1803" end="T1804">لأن </event>
+<event start="T1804" end="T1805">غالب </event>
+<event start="T1805" end="T1806">كلام </event>
+<event start="T1806" end="T1807">غير </event>
+<event start="T1807" end="T1808">العاقل </event>
+<event start="T1808" end="T1809">الهذيان.</event>
+<event start="T1809" end="T1810">وأما </event>
+<event start="T1810" end="T1811">الإسلام - </event>
+<event start="T1811" end="T1812">فلأن </event>
+<event start="T1812" end="T1813">الكلام </event>
+<event start="T1813" end="T1814">في </event>
+<event start="T1814" end="T1815">الخبر </event>
+<event start="T1815" end="T1816">عن </event>
+<event start="T1816" end="T1817">أمور </event>
+<event start="T1817" end="T1818">الدين، </event>
+<event start="T1818" end="T1819">وقصد </event>
+<event start="T1819" end="T1820">الكفرة </event>
+<event start="T1820" end="T1821">وسعيهم </event>
+<event start="T1821" end="T1822">في </event>
+<event start="T1822" end="T1823">نقض </event>
+<event start="T1823" end="T1824">دين </event>
+<event start="T1824" end="T1825">الحق </event>
+<event start="T1825" end="T1826">وتوهينه، </event>
+<event start="T1826" end="T1827">فاتهموا </event>
+<event start="T1827" end="T1828">فيما </event>
+<event start="T1828" end="T1829">يرجع </event>
+<event start="T1829" end="T1830">إليه، </event>
+<event start="T1830" end="T1831">لاحتمال </event>
+<event start="T1831" end="T1832">مكر </event>
+<event start="T1832" end="T1833">وخداع </event>
+<event start="T1833" end="T1834">في </event>
+<event start="T1834" end="T1835">الباطن. </event>
+<event start="T1835" end="T1836">فأما </event>
+<event start="T1836" end="T1837">نفس </event>
+<event start="T1837" end="T1838">الكفر </event>
+<event start="T1838" end="T1839">فمما </event>
+<event start="T1839" end="T1840">لا </event>
+<event start="T1840" end="T1841">يدعو </event>
+<event start="T1841" end="T1842">إلى </event>
+<event start="T1842" end="T1843">الكذب </event>
+<event start="T1843" end="T1844">ولا </event>
+<event start="T1844" end="T1845">يمنع </event>
+<event start="T1845" end="T1846">وجود </event>
+<event start="T1846" end="T1847">الصدق.</event>
+<event start="T1847" end="T1848">وأما </event>
+<event start="T1848" end="T1849">الضبط - </event>
+<event start="T1849" end="T1850">فنعني </event>
+<event start="T1850" end="T1851">به </event>
+<event start="T1851" end="T1852">أن </event>
+<event start="T1852" end="T1853">يسمع </event>
+<event start="T1853" end="T1854">الحديث </event>
+<event start="T1854" end="T1855">على </event>
+<event start="T1855" end="T1856">وجهه </event>
+<event start="T1856" end="T1857">ثم </event>
+<event start="T1857" end="T1858">يحفظه </event>
+<event start="T1858" end="T1859">حق</event>
+<event start="T1859" end="T1860">حفظه </event>
+<event start="T1860" end="T1861">ثم </event>
+<event start="T1861" end="T1862">يرويه </event>
+<event start="T1862" end="T1863">كما </event>
+<event start="T1863" end="T1864">سمع، </event>
+<event start="T1864" end="T1865">ولا </event>
+<event start="T1865" end="T1866">يكون </event>
+<event start="T1866" end="T1867">السهو </event>
+<event start="T1867" end="T1868">والنسيان </event>
+<event start="T1868" end="T1869">والغفلة </event>
+<event start="T1869" end="T1870">غالبً</event>
+<event start="T1870" end="T1871">ا </event>
+<event start="T1871" end="T1872">عليه، </event>
+<event start="T1872" end="T1873">حتى </event>
+<event start="T1873" end="T1874">يترجح </event>
+<event start="T1874" end="T1875">جانب </event>
+<event start="T1875" end="T1876">الثبوت </event>
+<event start="T1876" end="T1877">على </event>
+<event start="T1877" end="T1878">العدم.</event>
+<event start="T1878" end="T1879">وأما </event>
+<event start="T1879" end="T1880">البلوغ - </event>
+<event start="T1880" end="T1881">هل </event>
+<event start="T1881" end="T1882">هو </event>
+<event start="T1882" end="T1883">شرط؟ </event>
+<event start="T1883" end="T1884">لا </event>
+<event start="T1884" end="T1885">خلاف </event>
+<event start="T1885" end="T1886">أنه </event>
+<event start="T1886" end="T1887">ليس </event>
+<event start="T1887" end="T1888">بشرط </event>
+<event start="T1888" end="T1889">التحمل، </event>
+<event start="T1889" end="T1890">فإنه </event>
+<event start="T1890" end="T1891">إذا </event>
+<event start="T1891" end="T1892">كان </event>
+<event start="T1892" end="T1893">الصبي </event>
+<event start="T1893" end="T1894">عاقلا </event>
+<event start="T1894" end="T1895">ضابطً</event>
+<event start="T1895" end="T1896">ا </event>
+<event start="T1896" end="T1897">يصح </event>
+<event start="T1897" end="T1898">منه </event>
+<event start="T1898" end="T1899">التحمل -</event>
+<event start="T1899" end="T1900">كما </event>
+<event start="T1900" end="T1901">في </event>
+<event start="T1901" end="T1902">تحمل </event>
+<event start="T1902" end="T1903">الشهادة.</event>
+<event start="T1903" end="T1904">وهل </event>
+<event start="T1904" end="T1905">يقبل </event>
+<event start="T1905" end="T1906">رواية </event>
+<event start="T1906" end="T1907">الصبي؟</event>
+<event start="T1907" end="T1908">قال </event>
+<event start="T1908" end="T1909">بعضهم: </event>
+<event start="T1909" end="T1910">تقبل، </event>
+<event start="T1910" end="T1911">لأن </event>
+<event start="T1911" end="T1912">خبره </event>
+<event start="T1912" end="T1913">مقبول </event>
+<event start="T1913" end="T1914">في </event>
+<event start="T1914" end="T1915">المعاملات </event>
+<event start="T1915" end="T1916">وفي </event>
+<event start="T1916" end="T1917">الديانات [</event>
+<event start="T1917" end="T1918">و] </event>
+<event start="T1918" end="T1919">يحكم </event>
+<event start="T1919" end="T1920">الرأي </event>
+<event start="T1920" end="T1921">فيه، </event>
+<event start="T1921" end="T1922">كما </event>
+<event start="T1922" end="T1923">في </event>
+<event start="T1923" end="T1924">طهارة </event>
+<event start="T1924" end="T1925">الماء </event>
+<event start="T1925" end="T1926">ونجاسته - </event>
+<event start="T1926" end="T1927">فكذا </event>
+<event start="T1927" end="T1928">هذا.</event>
+<event start="T1928" end="T1929">وقال </event>
+<event start="T1929" end="T1930">بعضهم: </event>
+<event start="T1930" end="T1931">يشترط </event>
+<event start="T1931" end="T1932">البلوغ، </event>
+<event start="T1932" end="T1933">لأن </event>
+<event start="T1933" end="T1934">غالب </event>
+<event start="T1934" end="T1935">حاله </event>
+<event start="T1935" end="T1936">اللهو </event>
+<event start="T1936" end="T1937">واللعب </event>
+<event start="T1937" end="T1938">والمسامحة </event>
+<event start="T1938" end="T1939">والمساهلة، </event>
+<event start="T1939" end="T1940">وربما </event>
+<event start="T1940" end="T1941">لا </event>
+<event start="T1941" end="T1942">يحتاط </event>
+<event start="T1942" end="T1943">في </event>
+<event start="T1943" end="T1944">ذلك </event>
+<event start="T1944" end="T1945">الباب.</event>
+<event start="T1945" end="T1946">وأما </event>
+<event start="T1946" end="T1947">العدالة - </event>
+<event start="T1947" end="T1948">فشرط، </event>
+<event start="T1948" end="T1949">لأن </event>
+<event start="T1949" end="T1950">من </event>
+<event start="T1950" end="T1951">ارتكب </event>
+<event start="T1951" end="T1952">محظورً</event>
+<event start="T1952" end="T1953">ا </event>
+<event start="T1953" end="T1954">ولا </event>
+<event start="T1954" end="T1955">يبالي، </event>
+<event start="T1955" end="T1956">فيحتمل </event>
+<event start="T1956" end="T1957">أن </event>
+<event start="T1957" end="T1958">يكذب </event>
+<event start="T1958" end="T1959">لغرض </event>
+<event start="T1959" end="T1960">له </event>
+<event start="T1960" end="T1961">في </event>
+<event start="T1961" end="T1962">ذلك، </event>
+<event start="T1962" end="T1963">أو </event>
+<event start="T1963" end="T1964">يحمله </event>
+<event start="T1964" end="T1965">عليه </event>
+<event start="T1965" end="T1966">مبتدع </event>
+<event start="T1966" end="T1967">بالمال </event>
+<event start="T1967" end="T1968">والجاه، </event>
+<event start="T1968" end="T1969">فيروي </event>
+<event start="T1969" end="T1970">ما </event>
+<event start="T1970" end="T1971">هو </event>
+<event start="T1971" end="T1972">مناقضة </event>
+<event start="T1972" end="T1973">في </event>
+<event start="T1973" end="T1974">الدين، </event>
+<event start="T1974" end="T1975">فكان </event>
+<event start="T1975" end="T1976">الاحتياط </event>
+<event start="T1976" end="T1977">هو </event>
+<event start="T1977" end="T1978">المنع.</event>
+<event start="T1978" end="T1979">فأما </event>
+<event start="T1979" end="T1980">رواية </event>
+<event start="T1980" end="T1981">أهل </event>
+<event start="T1981" end="T1982">الأهواء </event>
+<event start="T1982" end="T1983">والبدع:</event>
+<event start="T1983" end="T1984">[</event>
+<event start="T1984" end="T1985">فـ] </event>
+<event start="T1985" end="T1986">بعضهم </event>
+<event start="T1986" end="T1987">قالوا: </event>
+<event start="T1987" end="T1988">لا </event>
+<event start="T1988" end="T1989">تقبل، </event>
+<event start="T1989" end="T1990">لأن </event>
+<event start="T1990" end="T1991">الفسق </event>
+<event start="T1991" end="T1992">من </event>
+<event start="T1992" end="T1993">حيت </event>
+<event start="T1993" end="T1994">الاعتقاد </event>
+<event start="T1994" end="T1995">شر </event>
+<event start="T1995" end="T1996">من </event>
+<event start="T1996" end="T1997">فسق </event>
+<event start="T1997" end="T1998">التعاطي، </event>
+<event start="T1998" end="T1999">ثم </event>
+<event start="T1999" end="T2000">الفسق </event>
+<event start="T2000" end="T2001">من </event>
+<event start="T2001" end="T2002">حيث </event>
+<event start="T2002" end="T2003">التعاطي </event>
+<event start="T2003" end="T2004">مانع - </event>
+<event start="T2004" end="T2005">فكذا </event>
+<event start="T2005" end="T2006">هذا.</event>
+<event start="T2006" end="T2007">وقال </event>
+<event start="T2007" end="T2008">بعضهم: </event>
+<event start="T2008" end="T2009">تقبل، </event>
+<event start="T2009" end="T2010">لأن </event>
+<event start="T2010" end="T2011">في </event>
+<event start="T2011" end="T2012">زعمهم </event>
+<event start="T2012" end="T2013">أنهم </event>
+<event start="T2013" end="T2014">على </event>
+<event start="T2014" end="T2015">الحق، </event>
+<event start="T2015" end="T2016">ومن </event>
+<event start="T2016" end="T2017">باشر </event>
+<event start="T2017" end="T2018">شيئً</event>
+<event start="T2018" end="T2019">ا </event>
+<event start="T2019" end="T2020">هو </event>
+<event start="T2020" end="T2021">حق </event>
+<event start="T2021" end="T2022">عنده، </event>
+<event start="T2022" end="T2023">وإن </event>
+<event start="T2023" end="T2024">كان </event>
+<event start="T2024" end="T2025">فسقً</event>
+<event start="T2025" end="T2026">ا </event>
+<event start="T2026" end="T2027">وباطلا </event>
+<event start="T2027" end="T2028">عند </event>
+<event start="T2028" end="T2029">غيره، </event>
+<event start="T2029" end="T2030">لا </event>
+<event start="T2030" end="T2031">يدل </event>
+<event start="T2031" end="T2032">على </event>
+<event start="T2032" end="T2033">أنه </event>
+<event start="T2033" end="T2034">يباشر </event>
+<event start="T2034" end="T2035">الكذب.</event>
+<event start="T2035" end="T2036">وقال </event>
+<event start="T2036" end="T2037">بعضهم: </event>
+<event start="T2037" end="T2038">هذا </event>
+<event start="T2038" end="T2039">إن </event>
+<event start="T2039" end="T2040">كان </event>
+<event start="T2040" end="T2041">هوى </event>
+<event start="T2041" end="T2042">لا </event>
+<event start="T2042" end="T2043">يكفر </event>
+<event start="T2043" end="T2044">به، </event>
+<event start="T2044" end="T2045">أما </event>
+<event start="T2045" end="T2046">إذا </event>
+<event start="T2046" end="T2047">كان </event>
+<event start="T2047" end="T2048">هوى </event>
+<event start="T2048" end="T2049">يكفر </event>
+<event start="T2049" end="T2050">به [</event>
+<event start="T2050" end="T2051">فـ] </event>
+<event start="T2051" end="T2052">يمنع، </event>
+<event start="T2052" end="T2053">لأن </event>
+<event start="T2053" end="T2054">الكفر </event>
+<event start="T2054" end="T2055">مانع </event>
+<event start="T2055" end="T2056">بالإجماع.</event>
+<event start="T2056" end="T2057">وأما </event>
+<event start="T2057" end="T2058">كل </event>
+<event start="T2058" end="T2059">ما </event>
+<event start="T2059" end="T2060">يرجع </event>
+<event start="T2060" end="T2061">إلى </event>
+<event start="T2061" end="T2062">الخبر: [</event>
+<event start="T2062" end="T2063">فمنها] </event>
+<event start="T2063" end="T2064">أن </event>
+<event start="T2064" end="T2065">يكون </event>
+<event start="T2065" end="T2066">موافقً</event>
+<event start="T2066" end="T2067">ا </event>
+<event start="T2067" end="T2068">للدليل </event>
+<event start="T2068" end="T2069">العقلي، </event>
+<event start="T2069" end="T2070">حتى </event>
+<event start="T2070" end="T2071">إذا </event>
+<event start="T2071" end="T2072">كان </event>
+<event start="T2072" end="T2073">مخالفً</event>
+<event start="T2073" end="T2074">ا </event>
+<event start="T2074" end="T2075">لا </event>
+<event start="T2075" end="T2076">يقبل، </event>
+<event start="T2076" end="T2077">كالأخبار </event>
+<event start="T2077" end="T2078">التي </event>
+<event start="T2078" end="T2079">وردت </event>
+<event start="T2079" end="T2080">في </event>
+<event start="T2080" end="T2081">التشبيه، </event>
+<event start="T2081" end="T2082">ونحو </event>
+<event start="T2082" end="T2083">ذلك، </event>
+<event start="T2083" end="T2084">لأن </event>
+<event start="T2084" end="T2085">العقل </event>
+<event start="T2085" end="T2086">حجة </event>
+<event start="T2086" end="T2087">من </event>
+<event start="T2087" end="T2088">حجج </event>
+<event start="T2088" end="T2089">الله </event>
+<event start="T2089" end="T2090">تعالى، </event>
+<event start="T2090" end="T2091">وإنه </event>
+<event start="T2091" end="T2092">حكيم </event>
+<event start="T2092" end="T2093">عالم، </event>
+<event start="T2093" end="T2094">فلا </event>
+<event start="T2094" end="T2095">يجوز </event>
+<event start="T2095" end="T2096">أن </event>
+<event start="T2096" end="T2097">تتناقض </event>
+<event start="T2097" end="T2098">حججه. </event>
+<event start="T2098" end="T2099">والدليل </event>
+<event start="T2099" end="T2100">السمعي </event>
+<event start="T2100" end="T2101">يحتمل </event>
+<event start="T2101" end="T2102">المجاز </event>
+<event start="T2102" end="T2103">والإضمار </event>
+<event start="T2103" end="T2104">والكناية </event>
+<event start="T2104" end="T2105">ونحوها، </event>
+<event start="T2105" end="T2106">فيجب </event>
+<event start="T2106" end="T2107">تخزيج </event>
+<event start="T2107" end="T2108">الأخبار </event>
+<event start="T2108" end="T2109">على </event>
+<event start="T2109" end="T2110">موافقة </event>
+<event start="T2110" end="T2111">العقل </event>
+<event start="T2111" end="T2112">على </event>
+<event start="T2112" end="T2113">ما </event>
+<event start="T2113" end="T2114">مر.</event>
+<event start="T2114" end="T2115">ومنها - </event>
+<event start="T2115" end="T2116">أن </event>
+<event start="T2116" end="T2117">يكون </event>
+<event start="T2117" end="T2118">موافقً</event>
+<event start="T2118" end="T2119">ا </event>
+<event start="T2119" end="T2120">لكتاب </event>
+<event start="T2120" end="T2121">الله </event>
+<event start="T2121" end="T2122">تعالى </event>
+<event start="T2122" end="T2123">وللسنة </event>
+<event start="T2123" end="T2124">المتواترة </event>
+<event start="T2124" end="T2125">وللإجماع. </event>
+<event start="T2125" end="T2126">فأما </event>
+<event start="T2126" end="T2127">إذا </event>
+<event start="T2127" end="T2128">خالف </event>
+<event start="T2128" end="T2129">واحدً</event>
+<event start="T2129" end="T2130">ا </event>
+<event start="T2130" end="T2131">من </event>
+<event start="T2131" end="T2132">هذه </event>
+<event start="T2132" end="T2133">الأصول </event>
+<event start="T2133" end="T2134">القاطعة، </event>
+<event start="T2134" end="T2135">فإنه </event>
+<event start="T2135" end="T2136">يجب </event>
+<event start="T2136" end="T2137">رده </event>
+<event start="T2137" end="T2138">أو </event>
+<event start="T2138" end="T2139">تأويله </event>
+<event start="T2139" end="T2140">على </event>
+<event start="T2140" end="T2141">وجه </event>
+<event start="T2141" end="T2142">يجمع </event>
+<event start="T2142" end="T2143">بينهما، </event>
+<event start="T2143" end="T2144">لما </event>
+<event start="T2144" end="T2145">روي </event>
+<event start="T2145" end="T2146">عن </event>
+<event start="T2146" end="T2147">رسول </event>
+<event start="T2147" end="T2148">الله - </event>
+<event start="T2148" end="T2149">صلى </event>
+<event start="T2149" end="T2150">الله </event>
+<event start="T2150" end="T2151">عليه </event>
+<event start="T2151" end="T2152">وسلم - </event>
+<event start="T2152" end="T2153">أنه </event>
+<event start="T2153" end="T2154">قال: "</event>
+<event start="T2154" end="T2155">إذا </event>
+<event start="T2155" end="T2156">روي </event>
+<event start="T2156" end="T2157">لكم </event>
+<event start="T2157" end="T2158">عني </event>
+<event start="T2158" end="T2159">حديث </event>
+<event start="T2159" end="T2160">فاعرضوه </event>
+<event start="T2160" end="T2161">على </event>
+<event start="T2161" end="T2162">كتاب </event>
+<event start="T2162" end="T2163">الله </event>
+<event start="T2163" end="T2164">تعالى </event>
+<event start="T2164" end="T2165">فما </event>
+<event start="T2165" end="T2166">وافق </event>
+<event start="T2166" end="T2167">كتاب </event>
+<event start="T2167" end="T2168">الله </event>
+<event start="T2168" end="T2169">تعالى </event>
+<event start="T2169" end="T2170">فاقبلوه، </event>
+<event start="T2170" end="T2171">وما </event>
+<event start="T2171" end="T2172">خالف </event>
+<event start="T2172" end="T2173">كتاب </event>
+<event start="T2173" end="T2174">الله </event>
+<event start="T2174" end="T2175">تعالى </event>
+<event start="T2175" end="T2176">فردوه".</event>
+<event start="T2176" end="T2177">ولأن </event>
+<event start="T2177" end="T2178">خبر </event>
+<event start="T2178" end="T2179">الواحد </event>
+<event start="T2179" end="T2180">يحتمل </event>
+<event start="T2180" end="T2181">الصدق </event>
+<event start="T2181" end="T2182">والكذب، </event>
+<event start="T2182" end="T2183">والسهو </event>
+<event start="T2183" end="T2184">والغلط، </event>
+<event start="T2184" end="T2185">والكتاب </event>
+<event start="T2185" end="T2186">دليل </event>
+<event start="T2186" end="T2187">قاطع، </event>
+<event start="T2187" end="T2188">فلا </event>
+<event start="T2188" end="T2189">يقبل </event>
+<event start="T2189" end="T2190">المحتمل </event>
+<event start="T2190" end="T2191">بمعارضة </event>
+<event start="T2191" end="T2192">القاطع، </event>
+<event start="T2192" end="T2193">بل </event>
+<event start="T2193" end="T2194">يخرج </event>
+<event start="T2194" end="T2195">على </event>
+<event start="T2195" end="T2196">موافقته </event>
+<event start="T2196" end="T2197">بنوع </event>
+<event start="T2197" end="T2198">تأويل.</event>
+<event start="T2198" end="T2199">ومنها - </event>
+<event start="T2199" end="T2200">أن </event>
+<event start="T2200" end="T2201">يرد </event>
+<event start="T2201" end="T2202">الخبر </event>
+<event start="T2202" end="T2203">في </event>
+<event start="T2203" end="T2204">باب </event>
+<event start="T2204" end="T2205">العمل. </event>
+<event start="T2205" end="T2206">فأما </event>
+<event start="T2206" end="T2207">إذا </event>
+<event start="T2207" end="T2208">ورد </event>
+<event start="T2208" end="T2209">في </event>
+<event start="T2209" end="T2210">باب </event>
+<event start="T2210" end="T2211">الاعتقادات، </event>
+<event start="T2211" end="T2212">وهي </event>
+<event start="T2212" end="T2213">من </event>
+<event start="T2213" end="T2214">مسائل </event>
+<event start="T2214" end="T2215">الكلام، </event>
+<event start="T2215" end="T2216">فإنه </event>
+<event start="T2216" end="T2217">لا </event>
+<event start="T2217" end="T2218">يكون </event>
+<event start="T2218" end="T2219">حجة، </event>
+<event start="T2219" end="T2220">لأنه </event>
+<event start="T2220" end="T2221">يوجب </event>
+<event start="T2221" end="T2222">الظن </event>
+<event start="T2222" end="T2223">وعلم </event>
+<event start="T2223" end="T2224">غالب </event>
+<event start="T2224" end="T2225">الرأي، </event>
+<event start="T2225" end="T2226">لا </event>
+<event start="T2226" end="T2227">علمً</event>
+<event start="T2227" end="T2228">ا </event>
+<event start="T2228" end="T2229">قطعيً</event>
+<event start="T2229" end="T2230">ا، </event>
+<event start="T2230" end="T2231">فلا </event>
+<event start="T2231" end="T2232">يكون </event>
+<event start="T2232" end="T2233">حجة </event>
+<event start="T2233" end="T2234">فيما </event>
+<event start="T2234" end="T2235">يبتني </event>
+<event start="T2235" end="T2236">على </event>
+<event start="T2236" end="T2237">العلم </event>
+<event start="T2237" end="T2238">القطعي، </event>
+<event start="T2238" end="T2239">والاعتقاد </event>
+<event start="T2239" end="T2240">حقيقة.</event>
+<event start="T2240" end="T2241">ومنها - </event>
+<event start="T2241" end="T2242">إذا </event>
+<event start="T2242" end="T2243">ورد </event>
+<event start="T2243" end="T2244">في </event>
+<event start="T2244" end="T2245">حادثة </event>
+<event start="T2245" end="T2246">تعم </event>
+<event start="T2246" end="T2247">بها </event>
+<event start="T2247" end="T2248">البلوى، </event>
+<event start="T2248" end="T2249">فإنه </event>
+<event start="T2249" end="T2250">لا </event>
+<event start="T2250" end="T2251">يقبل، </event>
+<event start="T2251" end="T2252">لأن </event>
+<event start="T2252" end="T2253">الحادثة </event>
+<event start="T2253" end="T2254">إذا </event>
+<event start="T2254" end="T2255">كانت </event>
+<event start="T2255" end="T2256">مما </event>
+<event start="T2256" end="T2257">يشتهر </event>
+<event start="T2257" end="T2258">لشدة </event>
+<event start="T2258" end="T2259">الحاجة، </event>
+<event start="T2259" end="T2260">لو </event>
+<event start="T2260" end="T2261">كان </event>
+<event start="T2261" end="T2262">الحديث </event>
+<event start="T2262" end="T2263">صحيحً</event>
+<event start="T2263" end="T2264">ا </event>
+<event start="T2264" end="T2265">لاشتهر </event>
+<event start="T2265" end="T2266">لاشتهار </event>
+<event start="T2266" end="T2267">الحادثة، </event>
+<event start="T2267" end="T2268">فلما </event>
+<event start="T2268" end="T2269">روي </event>
+<event start="T2269" end="T2270">بطريق </event>
+<event start="T2270" end="T2271">الآحاد </event>
+<event start="T2271" end="T2272">علم </event>
+<event start="T2272" end="T2273">أنه </event>
+<event start="T2273" end="T2274">غير </event>
+<event start="T2274" end="T2275">ثابت </event>
+<event start="T2275" end="T2276">ظاهرً</event>
+<event start="T2276" end="T2277">ا، </event>
+<event start="T2277" end="T2278">وذلك </event>
+<event start="T2278" end="T2279">نحو </event>
+<event start="T2279" end="T2280">حديثِ </event>
+<event start="T2280" end="T2281">الوضوء </event>
+<event start="T2281" end="T2282">بمس </event>
+<event start="T2282" end="T2283">الذكر، </event>
+<event start="T2283" end="T2284">والاغتسمال </event>
+<event start="T2284" end="T2285">بحمل </event>
+<event start="T2285" end="T2286">الجنازة، </event>
+<event start="T2286" end="T2287">والوضوء </event>
+<event start="T2287" end="T2288">بأكل </event>
+<event start="T2288" end="T2289">ما </event>
+<event start="T2289" end="T2290">مسته </event>
+<event start="T2290" end="T2291">النار </event>
+<event start="T2291" end="T2292">ونحوها.</event>
+</tier><tier id="TIE1" speaker="SPK0" category="sentence" type="a" display-name="AUT [sentence]"><event start="T0" end="T4">s</event>
+<event start="T4" end="T16">s</event>
+<event start="T16" end="T36">d</event>
+<event start="T36" end="T48">s</event>
+<event start="T48" end="T52">s</event>
+<event start="T52" end="T56">s</event>
+<event start="T56" end="T59">s</event>
+<event start="T59" end="T69">s</event>
+<event start="T69" end="T81">s</event>
+<event start="T81" end="T85">s</event>
+<event start="T85" end="T96">s</event>
+<event start="T96" end="T107">s</event>
+</tier><tier id="TIE2" speaker="SPK0" category="paragraph" type="a" display-name="AUT [paragraph]"></tier><tier id="TIE3" speaker="SPK0" category="line" type="a" display-name="AUT [line]"></tier><tier id="TIE4" speaker="SPK0" category="structuresem" type="a" display-name="AUT [structuresem]"><event start="T0" end="T4">sect_name</event>
+</tier><tier id="TIE5" speaker="SPK0" category="pers_name" type="a" display-name="AUT [pers_name]"><event start="T22" end="T23">Messenger</event>
+<event start="T24" end="T25">God</event>
+<event start="T28" end="T29">God</event>
+<event start="T40" end="T41">Gabriel</event>
+<event start="T50" end="T51">angel</event>
+<event start="T62" end="T63">God</event>
+<event start="T75" end="T76">Messenger</event>
+<event start="T76" end="T77">God</event>
+<event start="T78" end="T79">God</event>
+<event start="T106" end="T107">narrators</event>
+</tier><tier id="TIE6" speaker="SPK0" category="place_name" type="a" display-name="AUT [place_name]"></tier><tier id="TIE7" speaker="SPK0" category="concept" type="a" display-name="AUT [concept]"><event start="T2" end="T4">Sunnah</event>
+<event start="T4" end="T5">Sunnah</event>
+<event start="T9" end="T10">spoken</event>
+<event start="T12" end="T13">action</event>
+<event start="T15" end="T16">silence</event>
+<event start="T19" end="T20">spoken</event>
+<event start="T33" end="T34">revelation</event>
+<event start="T34" end="T36">unspoken</event>
+<event start="T47" end="T48">Quran</event>
+<event start="T65" end="T66">command</event>
+<event start="T66" end="T67">prohibition</event>
+<event start="T71" end="T72">evidence</event>
+<event start="T87" end="T88">infallible</event>
+<event start="T99" end="T100">Quran</event>
+<event start="T104" end="T105">Sunnah</event>
+</tier><tier id="TIE8" speaker="SPK0" category="episteme" type="a" display-name="AUT [episteme]"><event start="T21" end="T22">report</event>
+<event start="T39" end="T40">report</event>
+<event start="T49" end="T50">report</event>
+<event start="T58" end="T59">inspiration</event>
+<event start="T60" end="T61">report</event>
+<event start="T82" end="T83">report</event>
+<event start="T83" end="T84">truth</event>
+<event start="T90" end="T91">falsehood</event>
+<event start="T91" end="T92">mistake</event>
+<event start="T92" end="T93">incorrectness</event>
+<event start="T95" end="T96">laws</event>
+<event start="T105" end="T106">report</event>
+</tier><tier id="TIE9" speaker="SPK0" category="def_arg" type="a" display-name="AUT [def_arg]"><event start="T16" end="T36">definition</event>
+<event start="T38" end="T48">definition</event>
+<event start="T49" end="T52">definition</event>
+<event start="T53" end="T56">definition</event>
+<event start="T57" end="T59">definition</event>
+<event start="T60" end="T69">definition</event>
+<event start="T69" end="T77">argument</event>
+<event start="T81" end="T84">argument</event>
+<event start="T85" end="T96">argument</event>
+<event start="T96" end="T107">definition</event>
+</tier><tier id="TIE10" speaker="SPK0" category="Quran" type="a" display-name="AUT [Quran]"></tier></basic-body>
+</basic-transcription>
